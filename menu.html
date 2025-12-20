@@ -205,7 +205,6 @@
             margin-bottom: 16px;
             display: flex;
             flex-direction: column;
-            gap: 10px;
             border: #0000001a 0.5px solid;
         }
 
@@ -255,8 +254,10 @@
 
         .price-row {
             display: flex;
-            gap: 20px;
+            gap: 40px;
             margin-bottom: 12px;
+            justify-content: center;
+            text-align: center;
         }
 
         .price-col {
@@ -463,11 +464,36 @@
 
                 <div class="card">
                     <div class="card-main">
+                        <div class="card-img">
+                        </div>
+                        <div class="card-info">
+                            <div class="item-title">اسپرسو ماکیاتو</div>
+                            <div class="item-subtitle">Esperesso Macchiato</div>
+
+                            <div class="price-row">
+                                <div class="price-col">
+                                    <span class="price-label">تک شات</span>
+                                    <span class="price-value">۶۰.۰۰۰ تومان</span>
+                                </div>
+                                <div class="price-col">
+                                    <span class="price-label">جفت شات</span>
+                                    <span class="price-value">۱۰۰.۰۰۰ تومان</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item-desc">محتویات: تک شات ۳۰ میلی لیتر و دو شات ۶۰ میلی لیتر عصاره غلیظ و خالص قهوه
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-main">
                         <div class="card-img"><img src="/img/icon-menu.svg" alt="logo-icon"></div>
                         <div class="card-info">
                             <div class="item-title">اسپرسو</div>
                             <div class="item-subtitle">Espresso</div>
                         </div>
+
                     </div>
                 </div>
 
@@ -1686,29 +1712,30 @@
     });
 </script>
 <script>
-(function(){
-  const sameOrigin = url=> new URL(url, location.href).origin===location.origin;
-  async function visit(u, push=true){
-    try{
-      const res = await fetch(u, {credentials:'include'});
-      if(!res.ok) return location.href = u;
-      const text = await res.text();
-      // Replace entire document
-      document.open();
-      document.write(text);
-      document.close();
-      if(push) history.pushState(null,'',u);
-    }catch(e){ location.href = u; }
-  }
-  document.addEventListener('click', e=>{
-    if(e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return;
-    const a = e.target.closest('a'); if(!a) return;
-    const href = a.getAttribute('href'); if(!href||href.startsWith('#')||href.startsWith('mailto:')||href.startsWith('tel:')) return;
-    const url = new URL(href, location.href);
-    if(!sameOrigin(url)) return;
-    e.preventDefault(); visit(url.href, true);
-  }, true);
-  window.addEventListener('popstate', ()=> visit(location.href, false));
-})();
+    (function () {
+        const sameOrigin = url => new URL(url, location.href).origin === location.origin;
+        async function visit(u, push = true) {
+            try {
+                const res = await fetch(u, { credentials: 'include' });
+                if (!res.ok) return location.href = u;
+                const text = await res.text();
+                // Replace entire document
+                document.open();
+                document.write(text);
+                document.close();
+                if (push) history.pushState(null, '', u);
+            } catch (e) { location.href = u; }
+        }
+        document.addEventListener('click', e => {
+            if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+            const a = e.target.closest('a'); if (!a) return;
+            const href = a.getAttribute('href'); if (!href || href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
+            const url = new URL(href, location.href);
+            if (!sameOrigin(url)) return;
+            e.preventDefault(); visit(url.href, true);
+        }, true);
+        window.addEventListener('popstate', () => visit(location.href, false));
+    })();
 </script>
+
 </html>
