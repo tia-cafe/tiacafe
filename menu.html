@@ -1462,25 +1462,19 @@
         function scrollTabIntoView(activeTab) {
             if (!activeTab || !tabsContainer) return;
 
-            // For RTL layout, we need to handle scrolling differently
             const containerWidth = tabsContainer.clientWidth;
             const tabWidth = activeTab.offsetWidth;
             const tabRight = activeTab.offsetLeft + tabWidth;
-            const containerScrollRight = tabsContainer.scrollLeft + containerWidth;
 
-            // Check if tab is not fully visible (RTL logic)
-            if (activeTab.offsetLeft < tabsContainer.scrollLeft ||
-                tabRight > containerScrollRight) {
+            // Position the active tab at the far right of the navbar
+            // We want the right edge of the tab to align with the right edge of the container
+            const newScrollLeft = tabRight - containerWidth;
 
-                // For RTL, we want to scroll so the tab's right edge is visible
-                const newScrollLeft = tabRight - containerWidth + (tabWidth / 2);
-
-                // Smooth scroll the tabs container
-                tabsContainer.scrollTo({
-                    left: newScrollLeft,
-                    behavior: 'smooth'
-                });
-            }
+            // Smooth scroll the tabs container
+            tabsContainer.scrollTo({
+                left: newScrollLeft,
+                behavior: 'smooth'
+            });
         }
 
         // Function to scroll to a specific category
