@@ -66,7 +66,7 @@
 
         .container {
             width: 100%;
-            max-width: 450px;
+            max-width: 500px;
             background: #ffffff;
             min-height: 100vh;
             display: flex;
@@ -81,6 +81,8 @@
             width: 100%;
             object-fit: cover;
             display: block;
+            max-height: 30em;
+            min-height: 20em;
         }
 
         /* Logo Section */
@@ -98,7 +100,7 @@
             width: 90%;
             display: flex;
             flex-direction: column;
-            gap: 15px;
+            gap: 28px;
             align-items: center;
         }
 
@@ -113,8 +115,7 @@
             justify-content: center;
             transition: transform 0.2s, background 0.2s;
             border: 1px solid white;
-            max-width: 350px;
-            min-width: 200px;
+            width: 162px;
             background: url(/img/btn-bg.png);
             background-size: cover;
         }
@@ -132,11 +133,11 @@
 
         .btn-text-fa {
             font-weight: bold;
-            font-size: 0.9rem;
+            font-size: 0.7rem;
         }
 
         .btn-text-en {
-            font-size: 1rem;
+            font-size: 0.8rem;
             color: #4a90e2;
             margin-top: 4px;
         }
@@ -145,13 +146,13 @@
         .bottom-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 15px;
+            gap: 24px;
         }
 
         .icon-box {
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 20px;
             flex-direction: row-reverse;
             /* Icons on the side */
         }
@@ -160,14 +161,13 @@
         .footer-text {
             margin-top: 40px;
             margin-bottom: 30px;
-            font-size: 0.9rem;
+            font-size: 0.8rem;
             font-family: 'IranSansX', sans-serif;
         }
 
-        /* Simple Placeholder Icons */
         .icon-circle {
-            width: 30px;
-            height: 30px;
+            width: 24px;
+            height: 24px;
             border-radius: 8px;
         }
     </style>
@@ -195,7 +195,7 @@
                         <div class="btn-text-en">Cafe Location</div>
                     </div>
                     <div class="icon-circle">
-                        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink">
                             <rect width="24" height="24" rx="12" fill="url(#pattern0_1_604)" fill-opacity="0.08" />
                             <path opacity="0.5"
@@ -223,7 +223,7 @@
                         <div class="btn-text-en">Our Instagram</div>
                     </div>
                     <div class="icon-circle">
-                        <svg viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"
+                        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"
                             xmlns:xlink="http://www.w3.org/1999/xlink">
                             <rect opacity="0.8" width="20" height="20" fill="url(#pattern0_1_598)" />
                             <defs>
