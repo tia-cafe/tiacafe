@@ -1660,10 +1660,10 @@
 
                     const elementTop = element.offsetTop;
                     const elementHeight = element.offsetHeight;
-                    const elementCenter = elementTop + (elementHeight / 2);
+                    // const elementCenter = elementTop + (elementHeight / 2);
 
                     // Calculate distance from viewport center
-                    const distance = Math.abs(elementCenter - scrollPosition);
+                    const distance = Math.abs((elementTop + 40) - scrollPosition);
 
                     // Prefer categories that are closer to viewport center
                     if (distance < closestDistance) {
