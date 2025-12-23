@@ -1555,8 +1555,8 @@
         // Scroll spy functionality using Intersection Observer
         const observerOptions = {
             root: menuList,
-            rootMargin: '10% 0px 80% 0px',
-            threshold: [0, 0.1, 0.2]
+            rootMargin: '0px 0px 0px 0px',
+            threshold: [0]
         };
 
         // Map to store category elements for scroll spy
@@ -1663,7 +1663,7 @@
                     // const elementCenter = elementTop + (elementHeight / 2);
 
                     // Calculate distance from viewport center
-                    const distance = Math.abs((elementTop + 40) - scrollPosition);
+                    const distance = Math.abs((elementTop) - scrollPosition);
 
                     // Prefer categories that are closer to viewport center
                     if (distance < closestDistance) {
