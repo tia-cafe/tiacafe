@@ -6,78 +6,72 @@
   },
   "menu": {
     "categories": [
-      {
-        "id": "espressobar",
-        "nameFA": "قهوه ها",
-        "nameEN": "Espresso Bar",
-        "icon": "coffee",
-        "items": [
-          [
-            {
-              "id": "espresso-bar",
-              "nameFA": "قهوه‌ها",
-              "nameEN": "Espresso Bar",
-              "icon": "coffee",
-              "items": []
-            },
-            {
-              "id": "tea",
-              "nameFA": "چای و دمنوش",
-              "nameEN": "Tea & Infusion",
-              "icon": "tea",
-              "items": []
-            },
-            {
-              "id": "hot-drinks",
-              "nameFA": "نوشیدنی‌های گرم",
-              "nameEN": "Hot Drinks",
-              "icon": "hot-drinks",
-              "items": []
-            },
-            {
-              "id": "mocktails",
-              "nameFA": "ماکتل و اسموتی",
-              "nameEN": "Mocktail & Smoothie",
-              "icon": "mocktail",
-              "items": []
-            },
-            {
-              "id": "milkshakes",
-              "nameFA": "شیک‌ها",
-              "nameEN": "Milkshake",
-              "icon": "milkshake",
-              "items": []
-            },
-            {
-              "id": "breakfast",
-              "nameFA": "صبحانه",
-              "nameEN": "Breakfast",
-              "icon": "breakfast",
-              "items": []
-            },
-            {
-              "id": "salads",
-              "nameFA": "سالاد",
-              "nameEN": "Salad",
-              "icon": "salad",
-              "items": []
-            },
-            {
-              "id": "sandwiches",
-              "nameFA": "ساندویچ",
-              "nameEN": "Sandwich",
-              "icon": "sandwich",
-              "items": []
-            },
-            {
-              "id": "desserts",
-              "nameFA": "دسر و کیک",
-              "nameEN": "Dessert & Cake",
-              "icon": "dessert",
-              "items": []
-            }
-          ]
-        ]
-      },
-      "sha": "c76812f4aa9acbb102e7dc4796e37fefcc41cc8b"
-    }
+      [
+        {
+          "id": "espresso-bar",
+          "nameFA": "قهوه‌ها",
+          "nameEN": "Espresso Bar",
+          "icon": "coffee",
+          "items": []
+        },
+        {
+          "id": "tea",
+          "nameFA": "چای و دمنوش",
+          "nameEN": "Tea & Infusion",
+          "icon": "tea",
+          "items": []
+        },
+        {
+          "id": "hot-drinks",
+          "nameFA": "نوشیدنی‌های گرم",
+          "nameEN": "Hot Drinks",
+          "icon": "hot-drinks",
+          "items": []
+        },
+        {
+          "id": "mocktails",
+          "nameFA": "ماکتل و اسموتی",
+          "nameEN": "Mocktail & Smoothie",
+          "icon": "mocktail",
+          "items": []
+        },
+        {
+          "id": "milkshakes",
+          "nameFA": "شیک‌ها",
+          "nameEN": "Milkshake",
+          "icon": "milkshake",
+          "items": []
+        },
+        {
+          "id": "breakfast",
+          "nameFA": "صبحانه",
+          "nameEN": "Breakfast",
+          "icon": "breakfast",
+          "items": []
+        },
+        {
+          "id": "salads",
+          "nameFA": "سالاد",
+          "nameEN": "Salad",
+          "icon": "salad",
+          "items": []
+        },
+        {
+          "id": "sandwiches",
+          "nameFA": "ساندویچ",
+          "nameEN": "Sandwich",
+          "icon": "sandwich",
+          "items": []
+        },
+        {
+          "id": "desserts",
+          "nameFA": "دسر و کیک",
+          "nameEN": "Dessert & Cake",
+          "icon": "dessert",
+          "items": []
+        }
+      ]
+    ]
+  },
+  "sha": "c76812f4aa9acbb102e7dc4796e37fefcc41cc8b"
+}
