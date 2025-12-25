@@ -8,59 +8,556 @@
     "categories": [
       {
         "id": "espressobar",
-        "nameFA": "قهوه ها",
+        "nameFA": "قهوه‌ها",
         "nameEN": "Espresso Bar",
         "icon": "coffee",
         "items": [
           {
-            "id": "espresso-macchiato",
-            "nameFA": "اسپرسو ماکیاتو",
-            "nameEN": "Esperesso Macchiato",
-            "img": "/img/coffee.png",
-            "price1": "۶۰.۰۰۰ تومان",
-            "price2": "۱۰۰.۰۰۰ تومان",
-            "description": "محتویات: تک شات ۳۰ میلی لیتر و دو شات ۶۰ میلی لیتر عصاره غلیظ و خالص قهوه"
+            "id": "espresso",
+            "nameFA": "اسپرسو",
+            "nameEN": "Espresso",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "americano",
+            "nameFA": "آمریکانو",
+            "nameEN": "Americano",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "latte",
+            "nameFA": "لاته",
+            "nameEN": "Latte",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "cappuccino",
+            "nameFA": "کاپوچینو",
+            "nameEN": "Cappuccino",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "caramel-macchiato",
+            "nameFA": "کارامل ماکیاتو",
+            "nameEN": "Caramel Macchiato",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "mocha",
+            "nameFA": "موکا",
+            "nameEN": "Mocha",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "white-mocha",
+            "nameFA": "وایت موکا",
+            "nameEN": "White Mocha",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "coconut-mocha",
+            "nameFA": "موکا نارگیل",
+            "nameEN": "Coconut Mocha",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "spanish-latte",
+            "nameFA": "اسپنیش لاته",
+            "nameEN": "Spanish Latte",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "nutella-latte",
+            "nameFA": "لاته نوتلا",
+            "nameEN": "Nutella Latte",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
           },
           {
             "id": "irish-coffee",
             "nameFA": "ایریش کافی",
             "nameEN": "Irish Coffee",
             "img": "/img/icon-menu.svg",
-            "price1": "۶۰.۰۰۰ تومان",
-            "price2": "۱۰۰.۰۰۰ تومان",
-            "description": "محتویات: تک شات ۳۰ میلی لیتر و دو شات ۶۰ میلی لیتر عصاره غلیظ و خالص قهوه"
+            "price1": "",
+            "price2": "",
+            "description": ""
           }
         ]
       },
       {
-        "id": "tea",
+        "id": "brewedcoffee",
+        "nameFA": "قهوه های دمی",
+        "nameEN": "Brewed Coffee",
+        "icon": "coffee",
+        "items": [
+          {
+            "id": "chemex",
+            "nameFA": "کمکس",
+            "nameEN": "Chemex",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "v60",
+            "nameFA": "V60",
+            "nameEN": "V60",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "batch-brew",
+            "nameFA": "برو ماشین",
+            "nameEN": "Batch Brew",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "turkish-coffee",
+            "nameFA": "قهوه ترک",
+            "nameEN": "Turkish Coffee",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "persian-spiced-coffee",
+            "nameFA": "قهوه پرشین",
+            "nameEN": "Persian Spiced Coffee",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "id": "icedcoffee",
+        "nameFA": "آیس کافی",
+        "nameEN": "Iced Coffee",
+        "icon": "coffee",
+        "items": [
+          {
+            "id": "iced-americano",
+            "nameFA": "آیس آمریکانو",
+            "nameEN": "Iced Americano",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "iced-latte",
+            "nameFA": "آیس لاته",
+            "nameEN": "Iced Latte",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "iced-mocha",
+            "nameFA": "آیس موکا",
+            "nameEN": "Iced Mocha",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "iced-caramel-macchiato",
+            "nameFA": "آیس کارامل ماکیاتو",
+            "nameEN": "Iced Caramel Macchiato",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "affogato",
+            "nameFA": "آفوگاتو",
+            "nameEN": "Affogato",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "mazagran",
+            "nameFA": "مازاگران",
+            "nameEN": "Mazagran",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "iced-matcha-latte",
+            "nameFA": "ماچا لاته سرد",
+            "nameEN": "Iced Matcha Latte",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "id": "teainfusion",
         "nameFA": "چای و دمنوش",
         "nameEN": "Tea & Infusion",
         "icon": "tea",
-        "items": []
+        "items": [
+          {
+            "id": "black-tea",
+            "nameFA": "چای سیاه",
+            "nameEN": "Black Tea",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "saffron-tea",
+            "nameFA": "چای زعفرانی",
+            "nameEN": "Saffron Tea",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "green-tea",
+            "nameFA": "چای سبز",
+            "nameEN": "Green Tea",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "royal-jasmine",
+            "nameFA": "جاسمین رویال",
+            "nameEN": "Royal Jasmine",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "fruit-tea",
+            "nameFA": "چای میوه‌ای",
+            "nameEN": "Fruit Tea",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "relaxing-herbal-tea",
+            "nameFA": "دمنوش آرامش",
+            "nameEN": "Relaxing Herbal Tea",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "cold-relief-tea",
+            "nameFA": "دمنوش سرماخوردگی",
+            "nameEN": "Cold Relief Tea",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
       },
       {
-        "id": "hot-drinks",
+        "id": "hotdrinks",
         "nameFA": "نوشیدنی‌های گرم",
         "nameEN": "Hot Drinks",
-        "icon": "hot-drinks",
-        "items": []
+        "icon": "hot-drink",
+        "items": [
+          {
+            "id": "hot-chocolate",
+            "nameFA": "هات چاکلت",
+            "nameEN": "Hot Chocolate",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "white-chocolate",
+            "nameFA": "وایت چاکلت",
+            "nameEN": "White Chocolate",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "pink-chocolate",
+            "nameFA": "پینک چاکلت",
+            "nameEN": "Pink Chocolate",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "blue-chocolate",
+            "nameFA": "بلو چاکلت",
+            "nameEN": "Blue Chocolate",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "matcha-latte",
+            "nameFA": "ماچا لاته",
+            "nameEN": "Matcha Latte",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "masala-chai",
+            "nameFA": "ماسالا",
+            "nameEN": "Masala Chai",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "karak-tea",
+            "nameFA": "چای کرک",
+            "nameEN": "Karak Tea",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "hot-biscuit",
+            "nameFA": "هات بیسکویت",
+            "nameEN": "Hot Biscuit",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "hot-pistachio",
+            "nameFA": "هات پسته",
+            "nameEN": "Hot Pistachio",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
       },
       {
-        "id": "mocktails",
+        "id": "mocktailsmoothie",
         "nameFA": "ماکتل و اسموتی",
         "nameEN": "Mocktail & Smoothie",
         "icon": "mocktail",
-        "items": []
+        "items": [
+          {
+            "id": "mojito",
+            "nameFA": "موهیتو",
+            "nameEN": "Mojito",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "blue-mojito",
+            "nameFA": "بلو موهیتو",
+            "nameEN": "Blue Mojito",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "lemonade",
+            "nameFA": "لیموناد",
+            "nameEN": "Lemonade",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "pink-punch",
+            "nameFA": "پینک پانچ",
+            "nameEN": "Pink Punch",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "seasonal-juice",
+            "nameFA": "آب‌میوه فصل",
+            "nameEN": "Seasonal Juice",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "red-berry-smoothie",
+            "nameFA": "اسموتی میوه‌های قرمز",
+            "nameEN": "Red Berry Smoothie",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "sour-smoothie",
+            "nameFA": "اسموتی ترش",
+            "nameEN": "Sour Smoothie",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "apple-basil",
+            "nameFA": "سیب ریحون",
+            "nameEN": "Apple Basil",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "orange-lychee",
+            "nameFA": "پرتقال لایچی",
+            "nameEN": "Orange Lychee",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
       },
       {
-        "id": "milkshakes",
+        "id": "milkshake",
         "nameFA": "شیک‌ها",
         "nameEN": "Milkshake",
         "icon": "milkshake",
-        "items": []
+        "items": [
+          {
+            "id": "vanilla",
+            "nameFA": "وانیل",
+            "nameEN": "Vanilla",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "coffee",
+            "nameFA": "قهوه",
+            "nameEN": "Coffee",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "chocolate",
+            "nameFA": "شکلات",
+            "nameEN": "Chocolate",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "peanut-butter",
+            "nameFA": "بادام زمینی",
+            "nameEN": "Peanut Butter",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "banana-chocolate",
+            "nameFA": "موز شکلات",
+            "nameEN": "Banana Chocolate",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "mama-shake",
+            "nameFA": "ماما شیک",
+            "nameEN": "Mama Shake",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "jimo-shake",
+            "nameFA": "جیمو شیک",
+            "nameEN": "Jimo Shake",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
       }
     ]
-  },
-  "sha": "63f2620a7a4a0a3702600421247ad5f8b79184b3"
+},
+"sha": "63f2620a7a4a0a3702600421247ad5f8b79184b3"
 }
