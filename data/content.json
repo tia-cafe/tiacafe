@@ -106,45 +106,27 @@
             "nameFA": "کمکس",
             "nameEN": "Chemex",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "219 T",
             "price2": "",
-            "description": ""
+            "description": "قهوه دم آوری شده"
           },
           {
             "id": "v60",
             "nameFA": "V60",
             "nameEN": "V60",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "219 T",
             "price2": "",
-            "description": ""
+            "description": "قهوه دم آوری شده"
           },
           {
             "id": "batch-brew",
             "nameFA": "برو ماشین",
             "nameEN": "Batch Brew",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "129 T",
             "price2": "",
-            "description": ""
-          },
-          {
-            "id": "turkish-coffee",
-            "nameFA": "قهوه ترک",
-            "nameEN": "Turkish Coffee",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "persian-spiced-coffee",
-            "nameFA": "قهوه پرشین",
-            "nameEN": "Persian Spiced Coffee",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": ""
+            "description": "قهوه دم آوری شده دستگاهی "
           }
         ]
       },
@@ -541,5 +523,5 @@
       }
     ]
   },
-  "sha": "77bf37de6f9a72c852077368133fe21358c4e0cf"
+  "sha": "f68237a90f7431bda5659aecc2ef31298d7572cb"
 }
