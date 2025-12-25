@@ -212,18 +212,18 @@
             "nameFA": "چای سیاه",
             "nameEN": "Black Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "67 T",
             "price2": "",
-            "description": ""
+            "description": "چای سیاه"
           },
           {
             "id": "saffron-tea",
-            "nameFA": "چای زعفرانی",
-            "nameEN": "Saffron Tea",
+            "nameFA": "چای تی آ",
+            "nameEN": "Tia tea",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "119 T",
             "price2": "",
-            "description": ""
+            "description": "چاب سیاه، گل‌ محمدی، دارچین، به لیمو، نبات‌ "
           },
           {
             "id": "green-tea",
@@ -269,6 +269,15 @@
             "price1": "",
             "price2": "",
             "description": ""
+          },
+          {
+            "id": "new-item-1766697407632",
+            "nameFA": "زعفران ",
+            "nameEN": "Saffron",
+            "img": "/img/icon-menu.svg",
+            "price1": "30 T",
+            "price2": "",
+            "description": "زعفران اعلاء"
           }
         ]
       },
@@ -523,5 +532,5 @@
       }
     ]
   },
-  "sha": "900e40ea4588872632283f5e522ee3ef38fb7d90"
+  "sha": "a04bff92e36b67870d398fe2f3c4fb99162ed952"
 }
