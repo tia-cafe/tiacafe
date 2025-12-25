@@ -8,23 +8,23 @@
     "categories": [
       {
         "id": "espressobar",
-        "nameFA": "ÙÙÙÙ ÙØ§",
+        "nameFA": "قهوه ها",
         "nameEN": "Espresso Bar",
         "icon": "coffee",
         "items": [
           {
-            "id": "new-item-1766681731576",
-            "nameFA": "آیتم جدید",
-            "nameEN": "New Item",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": ""
+            "id": "espresso-macchiato",
+            "nameFA": "اسپرسو ماکیاتو",
+            "nameEN": "Esperesso Macchiato",
+            "img": "/img/coffee.png",
+            "price1": "۶۰.۰۰۰ تومان",
+            "price2": "۱۰۰.۰۰۰ تومان",
+            "description": "محتویات: تک شات ۳۰ میلی لیتر و دو شات ۶۰ میلی لیتر عصاره غلیظ و خالص قهوه"
           },
           {
-            "id": "new-item-1766681738534",
-            "nameFA": "آیتم جدید",
-            "nameEN": "New Item",
+            "id": "irish-coffee",
+            "nameFA": "ایریش کافی",
+            "nameEN": "Irish Coffee",
             "img": "/img/icon-menu.svg",
             "price1": "",
             "price2": "",
@@ -34,33 +34,32 @@
       },
       {
         "id": "hotdrinks",
-        "nameFA": "ÙÙØ´ÛØ¯ÙÛ Ú¯Ø±Ù",
+        "nameFA": "نوشیدنی گرم",
         "nameEN": "Hot Drinks",
         "icon": "hot",
         "items": []
       },
       {
         "id": "colddrinks",
-        "nameFA": "ÙÙØ´ÛØ¯ÙÛ Ø³Ø±Ø¯",
+        "nameFA": "نوشیدنی سرد",
         "nameEN": "Cold Drinks",
         "icon": "cold",
         "items": []
       },
       {
         "id": "smoothies",
-        "nameFA": "Ø§Ø³ÙÙØªÛ",
+        "nameFA": "اسموتی",
         "nameEN": "Smoothies",
         "icon": "smoothie",
         "items": []
       },
       {
         "id": "desserts",
-        "nameFA": "Ø¯Ø³Ø±",
+        "nameFA": "دسر",
         "nameEN": "Desserts",
         "icon": "dessert",
         "items": []
       }
     ]
-  },
-  "sha": "918f47526901446f83c8839bd14d72d7191abfbd"
+  }
 }

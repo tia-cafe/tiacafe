@@ -12,7 +12,7 @@ const menuTemplate = fs.readFileSync(path.join(__dirname, '../templates/menu.tem
 // تولید صفحه اصلی
 function generateIndex() {
   let html = indexTemplate;
-  
+  console.log(content.homepage.heroImg);
   html = html.replace('{{HERO_IMG}}', content.homepage.heroImg);
   html = html.replace('{{LOCATION}}', content.homepage.location);
   html = html.replace('{{INSTAGRAM}}', content.homepage.instagram);
