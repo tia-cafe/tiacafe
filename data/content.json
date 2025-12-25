@@ -37,7 +37,17 @@
         "nameFA": "نوشیدنی گرم",
         "nameEN": "Hot Drinks",
         "icon": "hot",
-        "items": []
+        "items": [
+          {
+            "id": "new-item-1766688664659",
+            "nameFA": "آیتم جدید",
+            "nameEN": "New Item",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
       },
       {
         "id": "colddrinks",
@@ -61,5 +71,6 @@
         "items": []
       }
     ]
-  }
+  },
+  "sha": "c76812f4aa9acbb102e7dc4796e37fefcc41cc8b"
 }
