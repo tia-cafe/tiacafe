@@ -1,0 +1,14 @@
+{
+  "name": "tia-cafe-ssg",
+  "version": "1.0.0",
+  "description": "Static Site Generator for Tia Cafe",
+  "main": "scripts/generate.js",
+  "scripts": {
+    "build": "node scripts/generate.js",
+    "dev": "node scripts/generate.js && cd dist && npx serve"
+  },
+  "keywords": ["ssg", "static-site-generator"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}

@@ -1,0 +1,65 @@
+{
+  "homepage": {
+    "heroImg": "/img/interior-cafe.jpg",
+    "location": "geo:35.849187,50.981813",
+    "instagram": "https://instagram.com/tia_.cafe"
+  },
+  "menu": {
+    "categories": [
+      {
+        "id": "espressobar",
+        "nameFA": "قهوه ها",
+        "nameEN": "Espresso Bar",
+        "icon": "coffee",
+        "items": [
+          {
+            "id": "espresso-macchiato",
+            "nameFA": "اسپرسو ماکیاتو",
+            "nameEN": "Esperesso Macchiato",
+            "img": "/img/coffee.png",
+            "price1": "60.000 تومان",
+            "price2": "100.000 تومان",
+            "description": "محتویات: تک شات ۳۰ میلی لیتر و دو شات ۶۰ میلی لیتر عصاره غلیظ و خالص قهوه"
+          },
+          {
+            "id": "irish-coffee",
+            "nameFA": "ایریش کافی",
+            "nameEN": "Irish Coffee",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "id": "hotdrinks",
+        "nameFA": "نوشیدنی گرم",
+        "nameEN": "Hot Drinks",
+        "icon": "hot",
+        "items": []
+      },
+      {
+        "id": "colddrinks",
+        "nameFA": "نوشیدنی سرد",
+        "nameEN": "Cold Drinks",
+        "icon": "cold",
+        "items": []
+      },
+      {
+        "id": "smoothies",
+        "nameFA": "اسموتی",
+        "nameEN": "Smoothies",
+        "icon": "smoothie",
+        "items": []
+      },
+      {
+        "id": "desserts",
+        "nameFA": "دسر",
+        "nameEN": "Desserts",
+        "icon": "dessert",
+        "items": []
+      }
+    ]
+  }
+}
