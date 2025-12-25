@@ -8,23 +8,23 @@
     "categories": [
       {
         "id": "espressobar",
-        "nameFA": "قهوه ها",
+        "nameFA": "ÙÙÙÙ ÙØ§",
         "nameEN": "Espresso Bar",
         "icon": "coffee",
         "items": [
           {
-            "id": "espresso-macchiato",
-            "nameFA": "اسپرسو ماکیاتو",
-            "nameEN": "Esperesso Macchiato",
-            "img": "/img/coffee.png",
-            "price1": "60.000 تومان",
-            "price2": "100.000 تومان",
-            "description": "محتویات: تک شات ۳۰ میلی لیتر و دو شات ۶۰ میلی لیتر عصاره غلیظ و خالص قهوه"
+            "id": "new-item-1766681731576",
+            "nameFA": "آیتم جدید",
+            "nameEN": "New Item",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
           },
           {
-            "id": "irish-coffee",
-            "nameFA": "ایریش کافی",
-            "nameEN": "Irish Coffee",
+            "id": "new-item-1766681738534",
+            "nameFA": "آیتم جدید",
+            "nameEN": "New Item",
             "img": "/img/icon-menu.svg",
             "price1": "",
             "price2": "",
@@ -34,32 +34,33 @@
       },
       {
         "id": "hotdrinks",
-        "nameFA": "نوشیدنی گرم",
+        "nameFA": "ÙÙØ´ÛØ¯ÙÛ Ú¯Ø±Ù",
         "nameEN": "Hot Drinks",
         "icon": "hot",
         "items": []
       },
       {
         "id": "colddrinks",
-        "nameFA": "نوشیدنی سرد",
+        "nameFA": "ÙÙØ´ÛØ¯ÙÛ Ø³Ø±Ø¯",
         "nameEN": "Cold Drinks",
         "icon": "cold",
         "items": []
       },
       {
         "id": "smoothies",
-        "nameFA": "اسموتی",
+        "nameFA": "Ø§Ø³ÙÙØªÛ",
         "nameEN": "Smoothies",
         "icon": "smoothie",
         "items": []
       },
       {
         "id": "desserts",
-        "nameFA": "دسر",
+        "nameFA": "Ø¯Ø³Ø±",
         "nameEN": "Desserts",
         "icon": "dessert",
         "items": []
       }
     ]
-  }
+  },
+  "sha": "918f47526901446f83c8839bd14d72d7191abfbd"
 }
