@@ -59,44 +59,6 @@
         "nameEN": "Milkshake",
         "icon": "milkshake",
         "items": []
-      },
-      {
-        "id": "breakfast",
-        "nameFA": "صبحانه",
-        "nameEN": "Breakfast",
-        "icon": "breakfast",
-        "items": []
-      },
-      {
-        "id": "salads",
-        "nameFA": "سالاد",
-        "nameEN": "Salad",
-        "icon": "salad",
-        "items": []
-      },
-      {
-        "id": "sandwiches",
-        "nameFA": "ساندویچ",
-        "nameEN": "Sandwich",
-        "icon": "sandwich",
-        "items": []
-      },
-      {
-        "id": "desserts",
-        "nameFA": "دسر و کیک",
-        "nameEN": "Dessert & Cake",
-        "icon": "dessert",
-        "items": [
-          {
-            "id": "new-item-1766690302925",
-            "nameFA": "آیتم جدید",
-            "nameEN": "New Item",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": ""
-          }
-        ]
       }
     ]
   },
