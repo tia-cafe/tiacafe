@@ -292,45 +292,45 @@
             "nameFA": "هات چاکلت",
             "nameEN": "Hot Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "147 T",
             "price2": "",
-            "description": ""
+            "description": "شکلات غلیظ شده با شیر"
           },
           {
             "id": "white-chocolate",
             "nameFA": "وایت چاکلت",
             "nameEN": "White Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "147 T",
             "price2": "",
-            "description": ""
+            "description": "شکلات سفید غلیظ شده با شیر"
           },
           {
             "id": "pink-chocolate",
             "nameFA": "پینک چاکلت",
             "nameEN": "Pink Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "147 T ",
             "price2": "",
-            "description": ""
+            "description": "شکلات صورتی غلیظ شده با شیر"
           },
           {
             "id": "blue-chocolate",
             "nameFA": "بلو چاکلت",
             "nameEN": "Blue Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "147 T",
             "price2": "",
-            "description": ""
+            "description": "شکلات آبی غلیظ شده با شیر"
           },
           {
             "id": "matcha-latte",
             "nameFA": "ماچا لاته",
             "nameEN": "Matcha Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "169 T",
             "price2": "",
-            "description": ""
+            "description": "ماچا، شیر داغ \nتاپینگ: سیروپ دلخواه"
           },
           {
             "id": "masala-chai",
@@ -532,5 +532,5 @@
       }
     ]
   },
-  "sha": "a04bff92e36b67870d398fe2f3c4fb99162ed952"
+  "sha": "b046f86cc0320bfc60ffe9ac8e937d1bc17913c8"
 }
