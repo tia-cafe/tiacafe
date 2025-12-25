@@ -141,63 +141,63 @@
             "nameFA": "آیس آمریکانو",
             "nameEN": "Iced Americano",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "107 T",
             "price2": "",
-            "description": ""
+            "description": "اسپرسو، آب و یخ"
           },
           {
             "id": "iced-latte",
             "nameFA": "آیس لاته",
             "nameEN": "Iced Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "177 T ",
             "price2": "",
-            "description": ""
+            "description": "اسپرسو، شیر، یخ"
           },
           {
             "id": "iced-mocha",
             "nameFA": "آیس موکا",
             "nameEN": "Iced Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "217 T",
             "price2": "",
-            "description": ""
+            "description": "اسپرسو، شیر، شکلات، یخ"
           },
           {
             "id": "iced-caramel-macchiato",
             "nameFA": "آیس کارامل ماکیاتو",
             "nameEN": "Iced Caramel Macchiato",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "217 T",
             "price2": "",
-            "description": ""
+            "description": "اسپرسو، شیر، کارامل، یخ"
           },
           {
             "id": "affogato",
             "nameFA": "آفوگاتو",
             "nameEN": "Affogato",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "169 T",
             "price2": "",
-            "description": ""
-          },
-          {
-            "id": "mazagran",
-            "nameFA": "مازاگران",
-            "nameEN": "Mazagran",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": ""
+            "description": "اسپرسو، بستنی وانیل"
           },
           {
             "id": "iced-matcha-latte",
             "nameFA": "ماچا لاته سرد",
             "nameEN": "Iced Matcha Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "169 T",
             "price2": "",
-            "description": ""
+            "description": "شیر، ماچا، یخ"
+          },
+          {
+            "id": "new-item-1766696888608",
+            "nameFA": "کارسولینا",
+            "nameEN": "Carsolina",
+            "img": "/img/icon-menu.svg",
+            "price1": "197 T",
+            "price2": "",
+            "description": "شیر، اسپرولینا، کاراسائو، یخ"
           }
         ]
       },
@@ -523,5 +523,5 @@
       }
     ]
   },
-  "sha": "c06381947fa2f5ef4b7dc9d79e682d592fbaba9d"
+  "sha": "4aa5c1ad07c1993956d9d319472c43385d7d8295"
 }
