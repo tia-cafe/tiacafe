@@ -12,65 +12,72 @@
         "nameEN": "Espresso Bar",
         "icon": "coffee",
         "items": [
-          {
-            "id": "espresso-macchiato",
-            "nameFA": "اسپرسو ماکیاتو",
-            "nameEN": "Esperesso Macchiato",
-            "img": "/img/coffee.png",
-            "price1": "۶۰.۰۰۰ تومان",
-            "price2": "۱۰۰.۰۰۰ تومان",
-            "description": "محتویات: تک شات ۳۰ میلی لیتر و دو شات ۶۰ میلی لیتر عصاره غلیظ و خالص قهوه"
-          },
-          {
-            "id": "irish-coffee",
-            "nameFA": "ایریش کافی",
-            "nameEN": "Irish Coffee",
-            "img": "/img/icon-menu.svg",
-            "price1": "۶۰.۰۰۰ تومان",
-            "price2": "۱۰۰.۰۰۰ تومان",
-            "description": "محتویات: تک شات ۳۰ میلی لیتر و دو شات ۶۰ میلی لیتر عصاره غلیظ و خالص قهوه"
-          }
+          [
+            {
+              "id": "espresso-bar",
+              "nameFA": "قهوه‌ها",
+              "nameEN": "Espresso Bar",
+              "icon": "coffee",
+              "items": []
+            },
+            {
+              "id": "tea",
+              "nameFA": "چای و دمنوش",
+              "nameEN": "Tea & Infusion",
+              "icon": "tea",
+              "items": []
+            },
+            {
+              "id": "hot-drinks",
+              "nameFA": "نوشیدنی‌های گرم",
+              "nameEN": "Hot Drinks",
+              "icon": "hot-drinks",
+              "items": []
+            },
+            {
+              "id": "mocktails",
+              "nameFA": "ماکتل و اسموتی",
+              "nameEN": "Mocktail & Smoothie",
+              "icon": "mocktail",
+              "items": []
+            },
+            {
+              "id": "milkshakes",
+              "nameFA": "شیک‌ها",
+              "nameEN": "Milkshake",
+              "icon": "milkshake",
+              "items": []
+            },
+            {
+              "id": "breakfast",
+              "nameFA": "صبحانه",
+              "nameEN": "Breakfast",
+              "icon": "breakfast",
+              "items": []
+            },
+            {
+              "id": "salads",
+              "nameFA": "سالاد",
+              "nameEN": "Salad",
+              "icon": "salad",
+              "items": []
+            },
+            {
+              "id": "sandwiches",
+              "nameFA": "ساندویچ",
+              "nameEN": "Sandwich",
+              "icon": "sandwich",
+              "items": []
+            },
+            {
+              "id": "desserts",
+              "nameFA": "دسر و کیک",
+              "nameEN": "Dessert & Cake",
+              "icon": "dessert",
+              "items": []
+            }
+          ]
         ]
       },
-      {
-        "id": "hotdrinks",
-        "nameFA": "نوشیدنی گرم",
-        "nameEN": "Hot Drinks",
-        "icon": "hot",
-        "items": [
-          {
-            "id": "new-item-1766688664659",
-            "nameFA": "آیتم جدید",
-            "nameEN": "New Item",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": ""
-          }
-        ]
-      },
-      {
-        "id": "colddrinks",
-        "nameFA": "نوشیدنی سرد",
-        "nameEN": "Cold Drinks",
-        "icon": "cold",
-        "items": []
-      },
-      {
-        "id": "smoothies",
-        "nameFA": "اسموتی",
-        "nameEN": "Smoothies",
-        "icon": "smoothie",
-        "items": []
-      },
-      {
-        "id": "desserts",
-        "nameFA": "دسر",
-        "nameEN": "Desserts",
-        "icon": "dessert",
-        "items": []
-      }
-    ]
-  },
-  "sha": "c76812f4aa9acbb102e7dc4796e37fefcc41cc8b"
-}
+      "sha": "c76812f4aa9acbb102e7dc4796e37fefcc41cc8b"
+    }
