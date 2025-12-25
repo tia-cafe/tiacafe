@@ -8,7 +8,7 @@
     "categories": [
       {
         "id": "espressobar",
-        "nameFA": "قهوه‌ها",
+        "nameFA": "قهوه ها",
         "nameEN": "Espresso Bar",
         "icon": "coffee",
         "items": [
@@ -310,7 +310,7 @@
       },
       {
         "id": "hotdrinks",
-        "nameFA": "نوشیدنی‌های گرم",
+        "nameFA": "نوشیدنی های گرم",
         "nameEN": "Hot Drinks",
         "icon": "hot-drink",
         "items": [
@@ -488,7 +488,7 @@
       },
       {
         "id": "milkshake",
-        "nameFA": "شیک‌ها",
+        "nameFA": "شیک ها",
         "nameEN": "Milkshake",
         "icon": "milkshake",
         "items": [
