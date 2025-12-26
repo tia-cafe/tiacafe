@@ -990,25 +990,24 @@
         <div class="card">
           <div class="card-main">
             <div class="card-img">
-              <img style="width: 56px !important; height: 56px !important" src="/img/icon-menu.svg" alt="Royal Jasmine">
-            </div>
-            <div class="card-info">
-              <div class="item-title">جاسمین رویال</div>
-              <div class="item-subtitle">Royal Jasmine</div>
-            </div>
-          </div>
-        </div>
-      
-        <div class="card">
-          <div class="card-main">
-            <div class="card-img">
               <img style="width: 56px !important; height: 56px !important" src="/img/icon-menu.svg" alt="Fruit Tea">
             </div>
             <div class="card-info">
               <div class="item-title">چای میوه‌ای</div>
               <div class="item-subtitle">Fruit Tea</div>
+              
+              <div class="price-row">
+                
+                <div class="price-col">
+                  <span class="price-value">137 T</span>
+                </div>
+                
+                
+              </div>
+              
             </div>
           </div>
+          <div class="item-desc">توت فرنگی، سیب،…</div>
         </div>
       
         <div class="card">
@@ -1670,9 +1669,8 @@
         function getElementCategory(element) {
             // Check for category classes
             const categoryClasses = [
-                'espressobar', 'brewedcoffee', 'icedcoffee', 'teaandinfusion',
-                'hotdrinks', 'mocktailandsmoothie', 'milkshake', 'breakfast',
-                'salad', 'sandwich', 'dessertandcake'
+                'espressobar', 'brewedcoffee', 'icedcoffee', 'teainfusion',
+                'hotdrinks', 'mocktailsmoothie', 'milkshake', 'dessert'
             ];
 
             for (const category of categoryClasses) {
@@ -1706,9 +1704,8 @@
 
         // Get all category sections
         const categoryClasses = [
-            'espressobar', 'brewedcoffee', 'icedcoffee', 'teaandinfusion',
-            'hotdrinks', 'mocktailandsmoothie', 'milkshake', 'breakfast',
-            'salad', 'sandwich', 'dessertandcake'
+            'espressobar', 'brewedcoffee', 'icedcoffee', 'teainfusion',
+            'hotdrinks', 'mocktailsmoothie', 'milkshake', 'dessert'
         ];
 
         // Collect all elements for each category
