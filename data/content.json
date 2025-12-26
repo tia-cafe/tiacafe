@@ -529,8 +529,88 @@
             "description": ""
           }
         ]
+      },
+      {
+        "id": "dessert",
+        "nameFA": "دسر و کیک",
+        "nameEN": "Dessert & Cake",
+        "icon": "cake",
+        "items": [
+          {
+            "id": "brownie",
+            "nameFA": "براونی",
+            "nameEN": "Brownie",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "carrot-cake",
+            "nameFA": "کیک هویج",
+            "nameEN": "Carrot Cake",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "cheesecake",
+            "nameFA": "چیزکیک",
+            "nameEN": "Cheesecake",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "tiramisu",
+            "nameFA": "ترامیسو",
+            "nameEN": "Tiramisu",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "tres-leches",
+            "nameFA": "سه شیر",
+            "nameEN": "Tres Leches",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "chia-pudding",
+            "nameFA": "دسر دانه چیا",
+            "nameEN": "Chia Pudding",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "cookie",
+            "nameFA": "کوکی",
+            "nameEN": "Cookie",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "biscotti",
+            "nameFA": "بیسکاتی",
+            "nameEN": "Biscotti",
+            "img": "/img/icon-menu.svg",
+            "price1": "",
+            "price2": "",
+            "description": ""
+          }
+        ]
       }
     ]
   },
-  "sha": "2aa7f57c09daab10f152ab1e6af5f12cff4c3d48"
+  "sha": "63f2620a7a4a0a3702600421247ad5f8b79184b3"
 }

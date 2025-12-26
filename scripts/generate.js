@@ -43,13 +43,11 @@ function generateMenuItems(category) {
               <div class="price-row">
                 ${item.price1 ? `
                 <div class="price-col">
-                  <span class="price-label">تک شات</span>
                   <span class="price-value">${item.price1}</span>
                 </div>
                 ` : ''}
                 ${item.price2 ? `
                 <div class="price-col">
-                  <span class="price-label">دو شات</span>
                   <span class="price-value">${item.price2}</span>
                 </div>
                 ` : ''}
