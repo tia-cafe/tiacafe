@@ -245,7 +245,7 @@
           },
           {
             "id": "relaxing-herbal-tea",
-            "nameFA": "دمنوش آرامش",
+            "nameFA": "ریلکس",
             "nameEN": "Relaxing Herbal Tea",
             "img": "/img/icon-menu.svg",
             "price1": "",
@@ -603,5 +603,5 @@
       }
     ]
   },
-  "sha": "5aef7d6feacba7d6387097c68a951df99a2819ba"
+  "sha": "12c4ad0cf5ba951ef9635bd6dad14e9413585bbf"
 }
