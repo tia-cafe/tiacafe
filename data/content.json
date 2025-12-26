@@ -235,22 +235,13 @@
             "description": ""
           },
           {
-            "id": "royal-jasmine",
-            "nameFA": "جاسمین رویال",
-            "nameEN": "Royal Jasmine",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": "چای سبز، گل یاس"
-          },
-          {
             "id": "fruit-tea",
             "nameFA": "چای میوه‌ای",
             "nameEN": "Fruit Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "137 T",
             "price2": "",
-            "description": ""
+            "description": "توت فرنگی، سیب،…"
           },
           {
             "id": "relaxing-herbal-tea",
@@ -612,5 +603,5 @@
       }
     ]
   },
-  "sha": "2440e070c956a0a6533bd01c7e6663c6ddfd33fe"
+  "sha": "5bb392d7b7df0be49c4fe08b715653f90243e9bb"
 }
