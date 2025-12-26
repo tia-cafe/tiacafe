@@ -108,7 +108,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "219 T",
             "price2": "",
-            "description": "قهوه دم آوری شده"
+            "description": ""
           },
           {
             "id": "v60",
@@ -117,16 +117,16 @@
             "img": "/img/icon-menu.svg",
             "price1": "219 T",
             "price2": "",
-            "description": "قهوه دم آوری شده"
+            "description": ""
           },
           {
             "id": "batch-brew",
-            "nameFA": "برو ماشین",
-            "nameEN": "Batch Brew",
+            "nameFA": "دمی دستگاهی",
+            "nameEN": "Brew machin",
             "img": "/img/icon-menu.svg",
             "price1": "129 T",
             "price2": "",
-            "description": "قهوه دم آوری شده دستگاهی "
+            "description": ""
           }
         ]
       },
@@ -532,5 +532,5 @@
       }
     ]
   },
-  "sha": "e276282dd2e24cc83fe685621ff195e87519ffd5"
+  "sha": "feb38caec7ae03927635f56cc7733afcd69fb85a"
 }
