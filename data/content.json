@@ -19,7 +19,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "97 T",
             "price2": "",
-            "description": "عصاره خالص قهوه ۵۰/۵۰"
+            "description": ""
           },
           {
             "id": "americano",
@@ -28,7 +28,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "107 T",
             "price2": "",
-            "description": "اسپرسو ، آبجوش"
+            "description": "اسپرسو، آبجوش"
           },
           {
             "id": "latte",
@@ -37,7 +37,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "177 T",
             "price2": "",
-            "description": "اسپرسو دبل شات، شیر"
+            "description": "اسپرسو، شیر"
           },
           {
             "id": "cappuccino",
@@ -55,7 +55,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "217 T",
             "price2": "",
-            "description": "اسپرسو، شیر، کارامل"
+            "description": "اسپرسو، شیر، سیروپ کارامل"
           },
           {
             "id": "mocha",
@@ -64,7 +64,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "217 T ",
             "price2": "",
-            "description": "اسپرسو، شیر، شکلات"
+            "description": "اسپرسو، شیر، سس شکلات"
           },
           {
             "id": "coconut-mocha",
@@ -73,7 +73,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "237 T",
             "price2": "",
-            "description": "اسپرسو، شیر، شکلات، سیروپ نارگیل"
+            "description": "اسپرسو، شیر، سس شکلات، سیروپ نارگیل"
           },
           {
             "id": "spanish-latte",
@@ -532,5 +532,5 @@
       }
     ]
   },
-  "sha": "1000a580b24a992f821ee197dd72cc566b44dc3c"
+  "sha": "e276282dd2e24cc83fe685621ff195e87519ffd5"
 }
