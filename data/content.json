@@ -214,7 +214,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "67 T",
             "price2": "",
-            "description": "چای سیاه"
+            "description": ""
           },
           {
             "id": "saffron-tea",
@@ -241,7 +241,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "",
             "price2": "",
-            "description": ""
+            "description": "چای سبز، گل یاس"
           },
           {
             "id": "fruit-tea",
@@ -532,5 +532,5 @@
       }
     ]
   },
-  "sha": "ecbaf8fa2eb50729f341ce1c6a4b623a0080ff3f"
+  "sha": "2aa7f57c09daab10f152ab1e6af5f12cff4c3d48"
 }
