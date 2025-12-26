@@ -161,7 +161,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "217 T",
             "price2": "",
-            "description": "اسپرسو، شیر، شکلات، یخ"
+            "description": "اسپرسو، شیر، سس شکلات، یخ"
           },
           {
             "id": "iced-caramel-macchiato",
@@ -170,7 +170,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "217 T",
             "price2": "",
-            "description": "اسپرسو، شیر، کارامل، یخ"
+            "description": "اسپرسو، شیر، سیروپ کارامل، یخ"
           },
           {
             "id": "affogato",
@@ -197,7 +197,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "197 T",
             "price2": "",
-            "description": "شیر، اسپرولینا، کاراسائو، یخ"
+            "description": "شیر، اسپرولینا، سیروپ کاراسائو، یخ"
           }
         ]
       },
@@ -532,5 +532,5 @@
       }
     ]
   },
-  "sha": "feb38caec7ae03927635f56cc7733afcd69fb85a"
+  "sha": "ecbaf8fa2eb50729f341ce1c6a4b623a0080ff3f"
 }
