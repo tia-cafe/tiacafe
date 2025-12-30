@@ -518,6 +518,15 @@
             "price1": "",
             "price2": "",
             "description": ""
+          },
+          {
+            "id": "new-item-1767103625146",
+            "nameFA": "شیک نوتلا",
+            "nameEN": "nutella shake",
+            "img": "/img/icon-menu.svg",
+            "price1": "317 T",
+            "price2": "",
+            "description": ""
           }
         ]
       },
@@ -627,5 +636,5 @@
       }
     ]
   },
-  "sha": "b872ccbf0efdd529f2b56d46ed8ea49d41ca7c9a"
+  "sha": "1310dc70ccccee8526175525fc541ea0277e63bb"
 }
