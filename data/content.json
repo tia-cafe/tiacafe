@@ -10,7 +10,7 @@
         "id": "espressobar",
         "nameFA": "قهوه ها",
         "nameEN": "Espresso Bar",
-        "icon": "coffee",
+        "icon": "/img/coffee.svg",
         "items": [
           {
             "id": "espresso",
@@ -99,7 +99,7 @@
         "id": "brewedcoffee",
         "nameFA": "قهوه های دمی",
         "nameEN": "Brewed Coffee",
-        "icon": "coffee",
+        "icon": "/img/brewedcoffee.svg",
         "items": [
           {
             "id": "chemex",
@@ -134,7 +134,7 @@
         "id": "icedcoffee",
         "nameFA": "آیس کافی",
         "nameEN": "Iced Coffee",
-        "icon": "coffee",
+        "icon": "/img/icedcoffee.svg",
         "items": [
           {
             "id": "iced-americano",
@@ -205,7 +205,7 @@
         "id": "teainfusion",
         "nameFA": "چای و دمنوش",
         "nameEN": "Tea & Infusion",
-        "icon": "tea",
+        "icon": "/img/teainfusion.svg",
         "items": [
           {
             "id": "black-tea",
@@ -276,7 +276,7 @@
         "id": "hotdrinks",
         "nameFA": "نوشیدنی های گرم",
         "nameEN": "Hot Drinks",
-        "icon": "hot-drink",
+        "icon": "/img/hotdrinks.svg",
         "items": [
           {
             "id": "hot-chocolate",
@@ -365,7 +365,7 @@
         "id": "mocktailsmoothie",
         "nameFA": "ماکتل و اسموتی",
         "nameEN": "Mocktail & Smoothie",
-        "icon": "mocktail",
+        "icon": "/img/mocktailsmoothie.svg",
         "items": [
           {
             "id": "mojito",
@@ -454,7 +454,7 @@
         "id": "milkshake",
         "nameFA": "شیک ها",
         "nameEN": "Milkshake",
-        "icon": "milkshake",
+        "icon": "/img/milkshake.svg",
         "items": [
           {
             "id": "vanilla",
@@ -525,7 +525,7 @@
         "id": "dessert",
         "nameFA": "دسر و کیک",
         "nameEN": "Dessert & Cake",
-        "icon": "cake",
+        "icon": "/img/dessert.svg",
         "items": [
           {
             "id": "brownie",
@@ -600,6 +600,27 @@
             "description": ""
           }
         ]
+      },
+      {
+        "id": "breakfast",
+        "nameFA": "صبحانه",
+        "nameEN": "Breakfast",
+        "icon": "/img/breakfast.svg",
+        "items": []
+      },
+      {
+        "id": "salad",
+        "nameFA": "سالاد",
+        "nameEN": "salad",
+        "icon": "/img/salad.svg",
+        "items": []
+      },
+      {
+        "id": "sandwich",
+        "nameFA": "ساندویچ",
+        "nameEN": "sandwich",
+        "icon": "/img/sandwich.svg",
+        "items": []
       }
     ]
   },
