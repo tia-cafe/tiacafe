@@ -92,6 +92,15 @@
             "price1": "217 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ ایریش"
+          },
+          {
+            "id": "new-item-1767115708668",
+            "nameFA": "وایت موکا",
+            "nameEN": "White mocha",
+            "img": "/img/icon-menu.svg",
+            "price1": "217T",
+            "price2": "",
+            "description": ""
           }
         ]
       },
@@ -212,7 +221,7 @@
             "nameFA": "چای سیاه",
             "nameEN": "Black Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "67 T",
+            "price1": "77 T",
             "price2": "",
             "description": ""
           },
@@ -230,7 +239,7 @@
             "nameFA": "چای سبز",
             "nameEN": "Green Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "77 T",
+            "price1": "83 T",
             "price2": "",
             "description": ""
           },
@@ -248,7 +257,7 @@
             "nameFA": "ریلکس",
             "nameEN": "Relaxing Herbal Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "117 T",
             "price2": "",
             "description": ""
           },
@@ -257,7 +266,7 @@
             "nameFA": "دمنوش سرماخوردگی",
             "nameEN": "Cold Relief Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "117 T",
             "price2": "",
             "description": ""
           },
@@ -636,5 +645,5 @@
       }
     ]
   },
-  "sha": "1310dc70ccccee8526175525fc541ea0277e63bb"
+  "sha": "609d7860545cdff2e661b9896fcb945a7ade6a0a"
 }
