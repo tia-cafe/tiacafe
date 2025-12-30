@@ -461,7 +461,7 @@
             "nameFA": "وانیل",
             "nameEN": "Vanilla",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "277 T",
             "price2": "",
             "description": ""
           },
@@ -470,7 +470,7 @@
             "nameFA": "قهوه",
             "nameEN": "Coffee",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "297 T",
             "price2": "",
             "description": ""
           },
@@ -479,7 +479,7 @@
             "nameFA": "شکلات",
             "nameEN": "Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "277 T",
             "price2": "",
             "description": ""
           },
@@ -488,7 +488,7 @@
             "nameFA": "بادام زمینی",
             "nameEN": "Peanut Butter",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "297 T",
             "price2": "",
             "description": ""
           },
@@ -497,7 +497,7 @@
             "nameFA": "موز شکلات",
             "nameEN": "Banana Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "297 T",
             "price2": "",
             "description": ""
           },
@@ -506,7 +506,7 @@
             "nameFA": "ماما شیک",
             "nameEN": "Mama Shake",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "277 T",
             "price2": "",
             "description": ""
           },
@@ -627,5 +627,5 @@
       }
     ]
   },
-  "sha": "5c086cd6ead406511c2bdbc81725ce3c1a023968"
+  "sha": "488736b5b6a8f09f4719525b66953ea0d762fb44"
 }
