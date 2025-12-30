@@ -603,6 +603,7 @@
       },
       {
         "id": "breakfast",
+        "hidden": "true",
         "nameFA": "صبحانه",
         "nameEN": "Breakfast",
         "icon": "/img/breakfast.svg",
@@ -610,6 +611,7 @@
       },
       {
         "id": "salad",
+        "hidden": "true",
         "nameFA": "سالاد",
         "nameEN": "salad",
         "icon": "/img/salad.svg",
@@ -617,6 +619,7 @@
       },
       {
         "id": "sandwich",
+        "hidden": "true",
         "nameFA": "ساندویچ",
         "nameEN": "sandwich",
         "icon": "/img/sandwich.svg",

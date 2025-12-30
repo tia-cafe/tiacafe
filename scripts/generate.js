@@ -8,14 +8,13 @@ const indexTemplate = fs.readFileSync(path.join(__dirname, '../templates/index.t
 const menuTemplate = fs.readFileSync(path.join(__dirname, '../templates/menu.template.html'), 'utf8');
 
 function getSvgFromFile(svgPath) {
-  const imagePath = path.join(__dirname, '..'+svgPath);
+  const imagePath = path.join(__dirname, '..' + svgPath);
   const imageContent = fs.readFileSync(imagePath, 'utf8');
   return imageContent;
 }
 
 function generateIndex() {
   let html = indexTemplate;
-  console.log(content.homepage.heroImg);
   html = html.replace('{{HERO_IMG}}', content.homepage.heroImg);
   html = html.replace('{{LOCATION}}', content.homepage.location);
   html = html.replace('{{INSTAGRAM}}', content.homepage.instagram);
@@ -84,19 +83,22 @@ function generateMenu() {
 
   let tabsHTML = '';
   content.menu.categories.forEach((cat, index) => {
-    const activeClass = index === 0 ? 'active' : '';
-    const lastClass = index === content.menu.categories.length - 1 ? 'tab-item-last' : '';
-    tabsHTML += `
+    if (cat.hidden != "true") {
+      const activeClass = index === 0 ? 'active' : '';
+      const lastClass = index === content.menu.categories.length - 1 ? 'tab-item-last' : '';
+      tabsHTML += `
     <div class="tab-item ${activeClass} ${lastClass}" data-target="${cat.id}">
       ${getSvgFromFile(cat.icon)}
       <span>${cat.nameFA}</span>
       </div>
     `;
+    }
   });
 
   let categoriesHTML = '';
   content.menu.categories.forEach(cat => {
-    categoriesHTML += `
+    if (cat.hidden != "true") {
+      categoriesHTML += `
       <div class="${cat.id}">
         <div class="menu-item">
           ${getSvgFromFile(cat.icon)}
@@ -105,6 +107,7 @@ function generateMenu() {
         ${generateMenuItems(cat)}
       </div>
     `;
+    }
   });
 
   html = html.replace('{{TABS}}', tabsHTML);
