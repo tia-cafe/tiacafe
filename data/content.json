@@ -292,7 +292,7 @@
             "nameFA": "هات چاکلت",
             "nameEN": "Hot Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "147 T",
+            "price1": "157 T",
             "price2": "",
             "description": "شکلات غلیظ شده با شیر"
           },
@@ -301,7 +301,7 @@
             "nameFA": "وایت چاکلت",
             "nameEN": "White Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "147 T",
+            "price1": "157 T",
             "price2": "",
             "description": "شکلات سفید غلیظ شده با شیر"
           },
@@ -310,7 +310,7 @@
             "nameFA": "پینک چاکلت",
             "nameEN": "Pink Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "147 T ",
+            "price1": "157 T ",
             "price2": "",
             "description": "شکلات صورتی غلیظ شده با شیر"
           },
@@ -319,7 +319,7 @@
             "nameFA": "بلو چاکلت",
             "nameEN": "Blue Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "147 T",
+            "price1": "157 T",
             "price2": "",
             "description": "شکلات آبی غلیظ شده با شیر"
           },
@@ -337,7 +337,7 @@
             "nameFA": "ماسالا",
             "nameEN": "Masala Chai",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "147 T",
             "price2": "",
             "description": ""
           },
@@ -346,7 +346,7 @@
             "nameFA": "چای کرک",
             "nameEN": "Karak Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "147 T",
             "price2": "",
             "description": ""
           },
@@ -355,7 +355,7 @@
             "nameFA": "هات بیسکویت",
             "nameEN": "Hot Biscuit",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "237 T",
             "price2": "",
             "description": ""
           },
@@ -364,7 +364,16 @@
             "nameFA": "هات پسته",
             "nameEN": "Hot Pistachio",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "237 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1767116057525",
+            "nameFA": "سیروپ ",
+            "nameEN": "Syrop ",
+            "img": "/img/icon-menu.svg",
+            "price1": "40 T",
             "price2": "",
             "description": ""
           }
@@ -645,5 +654,5 @@
       }
     ]
   },
-  "sha": "f2445ec047f29de108d065cd5bd2129e61caef88"
+  "sha": "d234b92f53904c679d7e489e1d8fea60480ad1c1"
 }
