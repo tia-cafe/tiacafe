@@ -625,6 +625,42 @@
             "price1": "197 T",
             "price2": "",
             "description": ""
+          },
+          {
+            "id": "new-item-1767193397363",
+            "nameFA": "کیک شکلاتی ",
+            "nameEN": "",
+            "img": "/img/icon-menu.svg",
+            "price1": "187 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1767193427863",
+            "nameFA": "رِد کیک",
+            "nameEN": "",
+            "img": "/img/icon-menu.svg",
+            "price1": "187 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1767193458510",
+            "nameFA": "کیک نسکافه ای",
+            "nameEN": "",
+            "img": "/img/icon-menu.svg",
+            "price1": "187 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1767193481678",
+            "nameFA": "ناپلئونی",
+            "nameEN": "",
+            "img": "/img/icon-menu.svg",
+            "price1": "207 T",
+            "price2": "",
+            "description": ""
           }
         ]
       },
@@ -654,5 +690,5 @@
       }
     ]
   },
-  "sha": "231579a771164807d0191712882d6328a263656a"
+  "sha": "5820bc3d786a7ec442bf9021e7aa70de4154a69a"
 }
