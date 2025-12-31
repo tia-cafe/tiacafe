@@ -583,7 +583,7 @@
           },
           {
             "id": "cookie",
-            "nameFA": "کوکی",
+            "nameFA": "انواع کوکی",
             "nameEN": "Cookie",
             "img": "/img/icon-menu.svg",
             "price1": "97 T",
@@ -690,5 +690,5 @@
       }
     ]
   },
-  "sha": "b3a543938e8257525525233b11a2282d24155967"
+  "sha": "bea2c3bdaf3d3eaa5bbd1e9ab0fe91639aadbe90"
 }
