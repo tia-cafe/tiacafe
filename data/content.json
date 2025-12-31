@@ -423,7 +423,7 @@
           },
           {
             "id": "seasonal-juice",
-            "nameFA": "آب‌میوه فصل",
+            "nameFA": "آبمیوه فصل",
             "nameEN": "Seasonal Juice",
             "img": "/img/icon-menu.svg",
             "price1": "",
@@ -525,15 +525,6 @@
             "nameEN": "Mama Shake",
             "img": "/img/icon-menu.svg",
             "price1": "277 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "jimo-shake",
-            "nameFA": "جیمو شیک",
-            "nameEN": "Jimo Shake",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
             "price2": "",
             "description": ""
           },
@@ -654,5 +645,5 @@
       }
     ]
   },
-  "sha": "4e4972b3c49f54ecf4fec9e195ab4cab090508e8"
+  "sha": "88401ae326c1e5bdbfec30d8e0ac9198cef5e354"
 }
