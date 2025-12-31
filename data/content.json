@@ -607,6 +607,24 @@
             "price1": "197 T",
             "price2": "",
             "description": ""
+          },
+          {
+            "id": "new-item-1767188262371",
+            "nameFA": "پای سیب",
+            "nameEN": "apple pie",
+            "img": "/img/icon-menu.svg",
+            "price1": "197 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1767188309107",
+            "nameFA": "بلوندی موز",
+            "nameEN": "Blonde banana",
+            "img": "/img/icon-menu.svg",
+            "price1": "197 T",
+            "price2": "",
+            "description": ""
           }
         ]
       },
@@ -636,5 +654,5 @@
       }
     ]
   },
-  "sha": "969e3962a3644a63eb8c59fd1a375836078d900d"
+  "sha": "c4c50a45d91aff4918f6003da0a9c9691d0d63cb"
 }
