@@ -550,7 +550,7 @@
             "nameFA": "براونی",
             "nameEN": "Brownie",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "197 T",
             "price2": "",
             "description": ""
           },
@@ -565,10 +565,10 @@
           },
           {
             "id": "cheesecake",
-            "nameFA": "چیزکیک",
-            "nameEN": "Cheesecake",
+            "nameFA": "چیزکیک ژاپنی ",
+            "nameEN": "Japanese Cheesecake",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "197 T",
             "price2": "",
             "description": ""
           },
@@ -577,25 +577,7 @@
             "nameFA": "ترامیسو",
             "nameEN": "Tiramisu",
             "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "tres-leches",
-            "nameFA": "سه شیر",
-            "nameEN": "Tres Leches",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "chia-pudding",
-            "nameFA": "دسر دانه چیا",
-            "nameEN": "Chia Pudding",
-            "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "217 T",
             "price2": "",
             "description": ""
           },
@@ -604,16 +586,25 @@
             "nameFA": "کوکی",
             "nameEN": "Cookie",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "97 T",
+            "price2": "",
+            "description": "پسته ای، گردوئی، شکلاتی، اسپرسو، فندوق شکلات."
+          },
+          {
+            "id": "new-item-1767188128772",
+            "nameFA": "سن‌ سباستین ",
+            "nameEN": "San sebastian",
+            "img": "/img/icon-menu.svg",
+            "price1": "197 T",
             "price2": "",
             "description": ""
           },
           {
-            "id": "biscotti",
-            "nameFA": "بیسکاتی",
-            "nameEN": "Biscotti",
+            "id": "new-item-1767188192518",
+            "nameFA": "براونی",
+            "nameEN": "Brownie",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "197 T",
             "price2": "",
             "description": ""
           }
@@ -645,5 +636,5 @@
       }
     ]
   },
-  "sha": "88401ae326c1e5bdbfec30d8e0ac9198cef5e354"
+  "sha": "8c992c4d0f26450e29a910998cdd0ade79b41ab1"
 }
