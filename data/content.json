@@ -8,6 +8,7 @@
     "categories": [
       {
         "id": "espressobar",
+        "hidden": "false",
         "nameFA": "قهوه ها",
         "nameEN": "Espresso Bar",
         "icon": "/img/coffee.svg",
@@ -106,6 +107,7 @@
       },
       {
         "id": "brewedcoffee",
+        "hidden": "false",
         "nameFA": "قهوه های دمی",
         "nameEN": "Brewed Coffee",
         "icon": "/img/brewedcoffee.svg",
@@ -141,6 +143,7 @@
       },
       {
         "id": "icedcoffee",
+        "hidden": "false",
         "nameFA": "آیس کافی",
         "nameEN": "Iced Coffee",
         "icon": "/img/icedcoffee.svg",
@@ -212,6 +215,7 @@
       },
       {
         "id": "teainfusion",
+        "hidden": "false",
         "nameFA": "چای و دمنوش",
         "nameEN": "Tea & Infusion",
         "icon": "/img/teainfusion.svg",
@@ -283,6 +287,7 @@
       },
       {
         "id": "hotdrinks",
+        "hidden": "false",
         "nameFA": "نوشیدنی های گرم",
         "nameEN": "Hot Drinks",
         "icon": "/img/hotdrinks.svg",
@@ -381,6 +386,7 @@
       },
       {
         "id": "mocktailsmoothie",
+        "hidden": "false",
         "nameFA": "ماکتل و اسموتی",
         "nameEN": "Mocktail & Smoothie",
         "icon": "/img/mocktailsmoothie.svg",
@@ -470,6 +476,7 @@
       },
       {
         "id": "milkshake",
+        "hidden": "false",
         "nameFA": "شیک ها",
         "nameEN": "Milkshake",
         "icon": "/img/milkshake.svg",
@@ -541,6 +548,7 @@
       },
       {
         "id": "dessert",
+        "hidden": "false",
         "nameFA": "دسر و کیک",
         "nameEN": "Dessert & Cake",
         "icon": "/img/dessert.svg",
