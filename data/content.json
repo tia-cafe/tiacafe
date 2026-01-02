@@ -121,7 +121,7 @@
           },
           {
             "id": "v60",
-            "nameFA": "V60",
+            "nameFA": "وی۶۰",
             "nameEN": "V60",
             "img": "/img/icon-menu.svg",
             "price1": "219 T",
@@ -690,5 +690,5 @@
       }
     ]
   },
-  "sha": "d2a7a30abeb1dd1811e63de41ae9b93de34bf140"
+  "sha": "1ab48b393f0e657f99d842425d6312bdb5dc469b"
 }
