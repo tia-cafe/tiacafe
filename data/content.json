@@ -690,7 +690,7 @@
       },
       {
         "id": "sandwich",
-        "hidden": "true",
+        "hidden": false,
         "nameFA": "ساندویچ",
         "nameEN": "sandwich",
         "icon": "/img/sandwich.svg",
@@ -698,5 +698,5 @@
       }
     ]
   },
-  "sha": "8b2c5e685742e15a09d1f17e9418f071c4dfa2e9"
+  "sha": "d1518d3528a3c40c16299c25bd87ff1297ba2152"
 }
