@@ -15,7 +15,13 @@ function getSvgFromFile(svgPath) {
 
 function generateIndex() {
   let html = indexTemplate;
-  html = html.replace('{{HERO_IMG}}', content.homepage.heroImg);
+  if (content.homepage.heroImg.match(/vid_/)) {
+    html = html.replace('{{HERO_IMG}}', `<video src="${content.homepage.heroImg}" alt="Tia Cafe Interior" class="hero-img" autoplay loop muted></video>`);
+  } else {
+    console.log(content.homepage.heroImg);
+    console.log(`<img src="${content.homepage.heroImg}" alt="Tia Cafe Interior" class="hero-img" />`);
+    html = html.replace('{{HERO_IMG}}', `<img src="${content.homepage.heroImg}" alt="Tia Cafe Interior" class="hero-img" />`);
+  }
   html = html.replace('{{LOCATION}}', content.homepage.location);
   html = html.replace('{{INSTAGRAM}}', content.homepage.instagram);
 
