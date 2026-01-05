@@ -157,6 +157,11 @@ const copyDir = (src, dest) => {
   copyDir(srcDir, destDir);
 });
 
+{
+  const srcDir = path.join(__dirname, "../public");
+  copyDir(srcDir, distPath);
+};
+
 fs.writeFileSync(path.join(distPath, 'index.html'), generateIndex());
 fs.writeFileSync(path.join(distPath, 'menu.html'), generateMenu());
 
