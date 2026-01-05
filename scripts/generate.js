@@ -92,7 +92,7 @@ function generateMenu() {
       const lastClass = index === content.menu.categories.length - 1 ? 'tab-item-last' : '';
       tabsHTML += `
     <div class="tab-item ${activeClass} ${lastClass}" data-target="${cat.id}">
-      ${getSvgFromFile(cat.icon)}
+      ${/.svg/.test(cat.icon) ? getSvgFromFile(cat.icon) : `<img src="${cat.icon}" alt="icon" />`}
       <span>${cat.nameFA}</span>
       </div>
     `;
@@ -105,7 +105,7 @@ function generateMenu() {
       categoriesHTML += `
       <div class="${cat.id}">
         <div class="menu-item">
-          ${getSvgFromFile(cat.icon)}
+          ${/.svg/.test(cat.icon) ? getSvgFromFile(cat.icon) : `<img src="${cat.icon}" alt="icon" />`}
           <span>${cat.nameFA}</span>
         </div>
         ${generateMenuItems(cat)}
