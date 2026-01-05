@@ -465,10 +465,7 @@
         // Function to get category from element
         function getElementCategory(element) {
             // Check for category classes
-            const categoryClasses = [
-                'espressobar', 'brewedcoffee', 'icedcoffee', 'teainfusion',
-                'hotdrinks', 'mocktailsmoothie', 'milkshake', 'dessert'
-            ];
+            const categoryClasses = {{CATEGORIESJS}};
 
             for (const category of categoryClasses) {
                 if (element.classList.contains(category)) {
@@ -500,10 +497,7 @@
         const categoryElements = new Map();
 
         // Get all category sections
-        const categoryClasses = [
-            'espressobar', 'brewedcoffee', 'icedcoffee', 'teainfusion',
-            'hotdrinks', 'mocktailsmoothie', 'milkshake', 'dessert'
-        ];
+        const categoryClasses = {{CATEGORIESJS}};
 
         // Collect all elements for each category
         categoryClasses.forEach(category => {

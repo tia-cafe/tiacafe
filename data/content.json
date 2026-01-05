@@ -690,7 +690,7 @@
       },
       {
         "id": "sandwich",
-        "hidden": true,
+        "hidden": "true",
         "nameFA": "ساندویچ",
         "nameEN": "sandwich",
         "icon": "/img/sandwich.svg",

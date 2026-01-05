@@ -114,8 +114,16 @@ function generateMenu() {
     }
   });
 
+  let categoriesArray = [];
+  content.menu.categories.forEach(cat => {
+    if (cat.hidden != "true") {
+      categoriesArray.push(cat.id);
+    }
+  });
+
   html = html.replace('{{TABS}}', tabsHTML);
   html = html.replace('{{CATEGORIES}}', categoriesHTML);
+  html = html.replace(/{{CATEGORIESJS}}/g, JSON.stringify(categoriesArray));
 
   return html;
 }
