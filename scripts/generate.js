@@ -18,8 +18,6 @@ function generateIndex() {
   if (content.homepage.heroImg.match(/vid_/)) {
     html = html.replace('{{HERO_IMG}}', `<video src="${content.homepage.heroImg}" alt="Tia Cafe Interior" class="hero-img" autoplay loop muted></video>`);
   } else {
-    console.log(content.homepage.heroImg);
-    console.log(`<img src="${content.homepage.heroImg}" alt="Tia Cafe Interior" class="hero-img" />`);
     html = html.replace('{{HERO_IMG}}', `<img src="${content.homepage.heroImg}" alt="Tia Cafe Interior" class="hero-img" />`);
   }
   html = html.replace('{{LOCATION}}', content.homepage.location);
@@ -61,7 +59,7 @@ function generateMenuItems(category) {
               ` : ''}
             </div>
           </div>
-          ${item.description ? `<div class="item-desc">${item.description}</div>` : ''}
+          ${item.description ? `<div class="item-desc">${item.description.replace(/\n/g, "<br/>")}</div>` : ''}
         </div>
       `;
     } else {
