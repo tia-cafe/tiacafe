@@ -18,7 +18,7 @@
             "nameFA": "اسپرسو",
             "nameEN": "Espresso",
             "img": "/img/icon-menu.svg",
-            "price1": "97 T",
+            "price1": "127 T",
             "price2": "",
             "description": ""
           },
@@ -27,7 +27,7 @@
             "nameFA": "آمریکانو",
             "nameEN": "Americano",
             "img": "/img/icon-menu.svg",
-            "price1": "107 T",
+            "price1": "137 T",
             "price2": "",
             "description": "اسپرسو، آبجوش"
           },
@@ -36,7 +36,7 @@
             "nameFA": "لاته",
             "nameEN": "Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "177 T",
+            "price1": "217 T",
             "price2": "",
             "description": "اسپرسو، شیر"
           },
@@ -45,7 +45,7 @@
             "nameFA": "کاپوچینو",
             "nameEN": "Cappuccino",
             "img": "/img/icon-menu.svg",
-            "price1": "167 T",
+            "price1": "197 T",
             "price2": "",
             "description": "اسپرسو، شیر"
           },
@@ -54,7 +54,7 @@
             "nameFA": "کارامل ماکیاتو",
             "nameEN": "Caramel Macchiato",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "257 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ کارامل"
           },
@@ -63,7 +63,7 @@
             "nameFA": "موکا",
             "nameEN": "Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T ",
+            "price1": "257 T ",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات"
           },
@@ -72,7 +72,7 @@
             "nameFA": "موکا نارگیل",
             "nameEN": "Coconut Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "277 T",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات، سیروپ نارگیل"
           },
@@ -81,7 +81,7 @@
             "nameFA": "اسپنیش لاته",
             "nameEN": "Spanish Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T ",
+            "price1": "257 T ",
             "price2": "",
             "description": "اسپرسو، شیر، شیرعسلی"
           },
@@ -90,16 +90,16 @@
             "nameFA": "ایریش کافی",
             "nameEN": "Irish Coffee",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "257 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ ایریش"
           },
           {
             "id": "new-item-1767115708668",
-            "nameFA": "وایت موکا",
-            "nameEN": "White mocha",
+            "nameFA": "لاته نوتلا",
+            "nameEN": "Nutella latte",
             "img": "/img/icon-menu.svg",
-            "price1": "217T",
+            "price1": "287 T",
             "price2": "",
             "description": ""
           }
@@ -698,5 +698,5 @@
       }
     ]
   },
-  "sha": "0073da580c1acf1df1f53dc27a842a9e780243b2"
+  "sha": "0745628c2a32a36e7aba3f1d2c73da64e7b491f6"
 }
