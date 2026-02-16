@@ -225,7 +225,7 @@
             "nameFA": "چای سیاه",
             "nameEN": "Black Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "77 T",
+            "price1": "87 T",
             "price2": "",
             "description": ""
           },
@@ -234,7 +234,7 @@
             "nameFA": "چای تی آ",
             "nameEN": "Tia tea",
             "img": "/img/icon-menu.svg",
-            "price1": "119 T",
+            "price1": "149 T",
             "price2": "",
             "description": "چای سیاه، گل‌ محمدی، دارچین، به لیمو، نبات‌ "
           },
@@ -243,7 +243,7 @@
             "nameFA": "چای سبز",
             "nameEN": "Green Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "83 T",
+            "price1": "107 T",
             "price2": "",
             "description": ""
           },
@@ -252,7 +252,7 @@
             "nameFA": "چای میوه‌ای",
             "nameEN": "Fruit Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "137 T",
+            "price1": "167 T",
             "price2": "",
             "description": "توت فرنگی، سیب،…"
           },
@@ -261,7 +261,7 @@
             "nameFA": "دمنوش ریلکس",
             "nameEN": "Relaxing Herbal Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "117 T",
+            "price1": "137 T",
             "price2": "",
             "description": ""
           },
@@ -270,7 +270,7 @@
             "nameFA": "دمنوش سرماخوردگی",
             "nameEN": "Cold Relief Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "117 T",
+            "price1": "137 T",
             "price2": "",
             "description": ""
           },
@@ -279,7 +279,7 @@
             "nameFA": "زعفران ",
             "nameEN": "Saffron",
             "img": "/img/icon-menu.svg",
-            "price1": "30 T",
+            "price1": "50 T",
             "price2": "",
             "description": "زعفران اعلاء"
           }
@@ -297,7 +297,7 @@
             "nameFA": "هات چاکلت",
             "nameEN": "Hot Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "157 T",
+            "price1": "207 T",
             "price2": "",
             "description": "شکلات غلیظ شده با شیر"
           },
@@ -306,7 +306,7 @@
             "nameFA": "وایت چاکلت",
             "nameEN": "White Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "157 T",
+            "price1": "207 T",
             "price2": "",
             "description": "شکلات سفید غلیظ شده با شیر"
           },
@@ -315,7 +315,7 @@
             "nameFA": "پینک چاکلت",
             "nameEN": "Pink Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "157 T ",
+            "price1": "207 T ",
             "price2": "",
             "description": "شکلات صورتی غلیظ شده با شیر"
           },
@@ -324,7 +324,7 @@
             "nameFA": "بلو چاکلت",
             "nameEN": "Blue Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "157 T",
+            "price1": "207 T",
             "price2": "",
             "description": "شکلات آبی غلیظ شده با شیر"
           },
@@ -333,7 +333,7 @@
             "nameFA": "ماچا لاته",
             "nameEN": "Matcha Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "169 T",
+            "price1": "217 T",
             "price2": "",
             "description": "ماچا، شیر داغ \nتاپینگ: سیروپ دلخواه"
           },
@@ -342,7 +342,7 @@
             "nameFA": "ماسالا",
             "nameEN": "Masala Chai",
             "img": "/img/icon-menu.svg",
-            "price1": "147 T",
+            "price1": "187 T",
             "price2": "",
             "description": ""
           },
@@ -351,7 +351,7 @@
             "nameFA": "چای کرک",
             "nameEN": "Karak Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "147 T",
+            "price1": "187 T",
             "price2": "",
             "description": ""
           },
@@ -360,7 +360,7 @@
             "nameFA": "هات بیسکویت",
             "nameEN": "Hot Biscuit",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "267 T",
             "price2": "",
             "description": ""
           },
@@ -369,7 +369,7 @@
             "nameFA": "هات پسته",
             "nameEN": "Hot Pistachio",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "267 T",
             "price2": "",
             "description": ""
           },
@@ -379,6 +379,24 @@
             "nameEN": "Syrop ",
             "img": "/img/icon-menu.svg",
             "price1": "40 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1771235231270",
+            "nameFA": "هات چاکلت فندوقی",
+            "nameEN": "Hot chokolate hazelnut",
+            "img": "/img/icon-menu.svg",
+            "price1": "237 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1771235350630",
+            "nameFA": "شیر داغ",
+            "nameEN": "Hot milk",
+            "img": "/img/icon-menu.svg",
+            "price1": "93 T",
             "price2": "",
             "description": ""
           }
@@ -396,7 +414,7 @@
             "nameFA": "موهیتو",
             "nameEN": "Mojito",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "237 T",
             "price2": "",
             "description": ""
           },
@@ -405,7 +423,7 @@
             "nameFA": "بلو موهیتو",
             "nameEN": "Blue Mojito",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "257 T",
             "price2": "",
             "description": ""
           },
@@ -414,7 +432,7 @@
             "nameFA": "لیموناد",
             "nameEN": "Lemonade",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "197 T",
             "price2": "",
             "description": ""
           },
@@ -441,7 +459,7 @@
             "nameFA": "اسموتی میوه‌های قرمز",
             "nameEN": "Red Berry Smoothie",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "273 T",
             "price2": "",
             "description": ""
           },
@@ -450,7 +468,7 @@
             "nameFA": "اسموتی ترش",
             "nameEN": "Sour Smoothie",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "257 T",
             "price2": "",
             "description": ""
           },
@@ -459,7 +477,7 @@
             "nameFA": "سیب ریحون",
             "nameEN": "Apple Basil",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "217 T",
             "price2": "",
             "description": ""
           },
@@ -486,7 +504,7 @@
             "nameFA": "وانیل",
             "nameEN": "Vanilla",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "287 T",
             "price2": "",
             "description": ""
           },
@@ -495,7 +513,7 @@
             "nameFA": "قهوه",
             "nameEN": "Coffee",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "327 T",
             "price2": "",
             "description": ""
           },
@@ -504,7 +522,7 @@
             "nameFA": "شکلات",
             "nameEN": "Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "287 T",
             "price2": "",
             "description": ""
           },
@@ -513,7 +531,7 @@
             "nameFA": "بادام زمینی",
             "nameEN": "Peanut Butter",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "359 T",
             "price2": "",
             "description": ""
           },
@@ -522,7 +540,7 @@
             "nameFA": "موز شکلات",
             "nameEN": "Banana Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "327 T",
             "price2": "",
             "description": ""
           },
@@ -531,7 +549,7 @@
             "nameFA": "ماما شیک",
             "nameEN": "Mama Shake",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "307 T",
             "price2": "",
             "description": ""
           },
@@ -540,7 +558,16 @@
             "nameFA": "شیک نوتلا",
             "nameEN": "nutella shake",
             "img": "/img/icon-menu.svg",
-            "price1": "317 T",
+            "price1": "359 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1771235585616",
+            "nameFA": "لوتوس ",
+            "nameEN": "Letus",
+            "img": "/img/icon-menu.svg",
+            "price1": "359 T",
             "price2": "",
             "description": ""
           }
@@ -554,119 +581,38 @@
         "icon": "/img/dessert.svg",
         "items": [
           {
-            "id": "brownie",
-            "nameFA": "براونی",
-            "nameEN": "Brownie",
+            "id": "new-item-1771236228740",
+            "nameFA": "سن سباستین",
+            "nameEN": "Sansebastian",
             "img": "/img/icon-menu.svg",
-            "price1": "197 T",
+            "price1": "267 T",
             "price2": "",
             "description": ""
           },
           {
-            "id": "carrot-cake",
-            "nameFA": "کیک هویج",
-            "nameEN": "Carrot Cake",
+            "id": "new-item-1771236266482",
+            "nameFA": "اسنیکرز",
+            "nameEN": "Snickers",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "257 T",
             "price2": "",
             "description": ""
           },
           {
-            "id": "cheesecake",
-            "nameFA": "چیزکیک ژاپنی ",
-            "nameEN": "Japanese Cheesecake",
+            "id": "new-item-1771236327053",
+            "nameFA": "کیک شکلاتی",
+            "nameEN": "Chocolate cake",
             "img": "/img/icon-menu.svg",
-            "price1": "197 T",
+            "price1": "229 T",
             "price2": "",
             "description": ""
           },
           {
-            "id": "tiramisu",
-            "nameFA": "ترامیسو",
-            "nameEN": "Tiramisu",
-            "img": "/img/icon-menu.svg",
-            "price1": "217 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "cookie",
+            "id": "new-item-1771236386540",
             "nameFA": "انواع کوکی",
-            "nameEN": "Cookie",
+            "nameEN": "Cookies",
             "img": "/img/icon-menu.svg",
-            "price1": "97 T",
-            "price2": "",
-            "description": "پسته ای، گردوئی، شکلاتی، اسپرسو، فندوق شکلات."
-          },
-          {
-            "id": "new-item-1767188128772",
-            "nameFA": "سن‌ سباستین ",
-            "nameEN": "San sebastian",
-            "img": "/img/icon-menu.svg",
-            "price1": "197 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "new-item-1767188192518",
-            "nameFA": "براونی",
-            "nameEN": "Brownie",
-            "img": "/img/icon-menu.svg",
-            "price1": "197 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "new-item-1767188262371",
-            "nameFA": "پای سیب",
-            "nameEN": "apple pie",
-            "img": "/img/icon-menu.svg",
-            "price1": "197 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "new-item-1767188309107",
-            "nameFA": "بلوندی موز",
-            "nameEN": "Blonde banana",
-            "img": "/img/icon-menu.svg",
-            "price1": "197 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "new-item-1767193397363",
-            "nameFA": "کیک شکلاتی ",
-            "nameEN": "",
-            "img": "/img/icon-menu.svg",
-            "price1": "187 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "new-item-1767193427863",
-            "nameFA": "رِد کیک",
-            "nameEN": "",
-            "img": "/img/icon-menu.svg",
-            "price1": "187 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "new-item-1767193458510",
-            "nameFA": "کیک نسکافه ای",
-            "nameEN": "",
-            "img": "/img/icon-menu.svg",
-            "price1": "187 T",
-            "price2": "",
-            "description": ""
-          },
-          {
-            "id": "new-item-1767193481678",
-            "nameFA": "ناپلئونی",
-            "nameEN": "",
-            "img": "/img/icon-menu.svg",
-            "price1": "207 T",
+            "price1": "107 T",
             "price2": "",
             "description": ""
           }
@@ -674,7 +620,7 @@
       },
       {
         "id": "breakfast",
-        "hidden": "true",
+        "hidden": true,
         "nameFA": "صبحانه",
         "nameEN": "Breakfast",
         "icon": "/img/breakfast.svg",
@@ -698,5 +644,5 @@
       }
     ]
   },
-  "sha": "acb9f6d1396bf43a2eab90b24670ced41add9bbe"
+  "sha": "57684b7bb87a8aa01c1cfcce6de1bb4d10b33a4f"
 }
