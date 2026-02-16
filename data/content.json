@@ -374,15 +374,6 @@
             "description": ""
           },
           {
-            "id": "new-item-1767116057525",
-            "nameFA": "سیروپ ",
-            "nameEN": "Syrop ",
-            "img": "/img/icon-menu.svg",
-            "price1": "40 T",
-            "price2": "",
-            "description": ""
-          },
-          {
             "id": "new-item-1771235231270",
             "nameFA": "هات چاکلت فندوقی",
             "nameEN": "Hot chokolate hazelnut",
@@ -397,6 +388,15 @@
             "nameEN": "Hot milk",
             "img": "/img/icon-menu.svg",
             "price1": "93 T",
+            "price2": "",
+            "description": ""
+          },
+          {
+            "id": "new-item-1771236759834",
+            "nameFA": "سیروپ",
+            "nameEN": "Syrop",
+            "img": "/img/icon-menu.svg",
+            "price1": "40 T",
             "price2": "",
             "description": ""
           }
@@ -644,5 +644,5 @@
       }
     ]
   },
-  "sha": "2756a75864ecf40454687646f431a578f99ded36"
+  "sha": "a2cfe695dbea40a4084834d39b6b07fe501985f1"
 }
