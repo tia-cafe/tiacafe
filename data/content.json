@@ -135,7 +135,7 @@
             "nameFA": "دمی دستگاهی",
             "nameEN": "Brew machin",
             "img": "/img/icon-menu.svg",
-            "price1": "129 T",
+            "price1": "147 T",
             "price2": "",
             "description": ""
           }
@@ -153,7 +153,7 @@
             "nameFA": "آیس آمریکانو",
             "nameEN": "Iced Americano",
             "img": "/img/icon-menu.svg",
-            "price1": "107 T",
+            "price1": "137 T",
             "price2": "",
             "description": "اسپرسو، آب و یخ"
           },
@@ -162,7 +162,7 @@
             "nameFA": "آیس لاته",
             "nameEN": "Iced Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "177 T ",
+            "price1": "217 T ",
             "price2": "",
             "description": "اسپرسو، شیر، یخ"
           },
@@ -171,7 +171,7 @@
             "nameFA": "آیس موکا",
             "nameEN": "Iced Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "257 T",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات، یخ"
           },
@@ -180,7 +180,7 @@
             "nameFA": "آیس کارامل ماکیاتو",
             "nameEN": "Iced Caramel Macchiato",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "257 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ کارامل، یخ"
           },
@@ -189,7 +189,7 @@
             "nameFA": "آفوگاتو",
             "nameEN": "Affogato",
             "img": "/img/icon-menu.svg",
-            "price1": "169 T",
+            "price1": "207 T",
             "price2": "",
             "description": "اسپرسو، بستنی وانیل"
           },
@@ -198,7 +198,7 @@
             "nameFA": "ماچا لاته سرد",
             "nameEN": "Iced Matcha Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "169 T",
+            "price1": "217 T",
             "price2": "",
             "description": "شیر، ماچا، یخ"
           },
@@ -207,7 +207,7 @@
             "nameFA": "کارسولینا",
             "nameEN": "Carsolina",
             "img": "/img/icon-menu.svg",
-            "price1": "197 T",
+            "price1": "217 T",
             "price2": "",
             "description": "شیر، اسپرولینا، سیروپ کاراسائو، یخ"
           }
@@ -698,5 +698,5 @@
       }
     ]
   },
-  "sha": "0745628c2a32a36e7aba3f1d2c73da64e7b491f6"
+  "sha": "acb9f6d1396bf43a2eab90b24670ced41add9bbe"
 }
