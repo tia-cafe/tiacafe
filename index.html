@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fa">
+<html lang="fa" dir="rtl">
 
 <head>
     <meta charset="UTF-8">
@@ -97,6 +97,13 @@
             height: 22em;
         }
 
+        .hero-vid {
+            width: 100%;
+            height: 22em;
+            object-fit: cover;
+            display: block;
+        }
+
         /* Logo Section */
         .logo-section {
             margin: 30px 0;
@@ -187,7 +194,7 @@
 <body>
 
     <div class="container">
-        <video src="/img/vid_1771979767688.mov" alt="Tia Cafe Interior" class="hero-img" autoplay loop muted></video>
+        <video class="hero-vid" autoplay muted loop playsinline><source src="/img/vid_1771979767688.mov" type="video/mp4"></video>
 
         <div class="logo-section">
             <img src="/img/logo.svg" alt="Logo">
