@@ -18,7 +18,7 @@
                         "nameFA": "اسپرسو ",
                         "nameEN": "Espresso",
                         "img": "\/img\/icon-menu.svg",
-                        "price1": "167 T",
+                        "price1": "179 T",
                         "price2": "",
                         "description": "۴۰ گرم عصاره قهوه ۷۰\/۳۰ عربیکا",
                         "hidden": "false"
@@ -28,7 +28,7 @@
                         "nameFA": "آمریکانو",
                         "nameEN": "Americano",
                         "img": "\/img\/icon-menu.svg",
-                        "price1": "187 T",
+                        "price1": "189 T",
                         "price2": "",
                         "description": "اسپرسو، آبجوش",
                         "hidden": "false"
@@ -350,6 +350,36 @@
                         "price2": "",
                         "description": "بستنی وانیل، ماچا دمی، شیر، نارگیل، یخ",
                         "hidden": "false"
+                    },
+                    {
+                        "id": "item-1782991067766",
+                        "nameFA": "آیس تارو لاته",
+                        "nameEN": "Ice taro latte",
+                        "img": "\/img\/icon-menu.svg",
+                        "price1": "T 287",
+                        "price2": "",
+                        "description": "شیر، فلاور پودر تارو، یخ",
+                        "hidden": "false"
+                    },
+                    {
+                        "id": "item-1783601205786",
+                        "nameFA": "شوکوبری ",
+                        "nameEN": "Chocoberry",
+                        "img": "\/img\/icon-menu.svg",
+                        "price1": "287 T",
+                        "price2": "",
+                        "description": "توت فرنگی تازه، سس شکلات.",
+                        "hidden": "false"
+                    },
+                    {
+                        "id": "item-1783601282296",
+                        "nameFA": "شوکو منگوبری",
+                        "nameEN": "Choco mangoberry",
+                        "img": "\/img\/icon-menu.svg",
+                        "price1": "308T",
+                        "price2": "",
+                        "description": "توت فرنگی تازه، انبه تازه، سس شکلات",
+                        "hidden": "true"
                     }
                 ]
             },
