@@ -138,7 +138,7 @@
             "nameFA": "لاته عسل دارچین",
             "nameEN": "New Item",
             "img": "/img/icon-menu.svg",
-            "price1": "288",
+            "price1": "287",
             "price2": "",
             "description": "اسپرسو، شیر، پودر دارچین، عسل",
             "hidden": "false"
@@ -955,5 +955,5 @@
       }
     ]
   },
-  "sha": "2d6903fe8a29dc7885892e3f73ea1da9ea5038ec"
+  "sha": "44275abd3ca7dd1ab3a8382f8b87ac5c61ea7718"
 }
