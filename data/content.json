@@ -870,7 +870,7 @@
             "id": "new-item-1771236228740",
             "nameFA": "سن سباستین",
             "nameEN": "Sansebastian",
-            "img": "/img/item_1786475134776.webp",
+            "img": "/img/icon-menu.svg",
             "price1": "267 T",
             "price2": "",
             "description": "",
@@ -1046,5 +1046,5 @@
       }
     ]
   },
-  "sha": "be64cd9badcdd233c3b13332c0765983c796481a"
+  "sha": "696e0880303d6bfa97278b59a8f6e7ad0e7a9394"
 }
