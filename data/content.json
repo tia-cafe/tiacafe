@@ -851,7 +851,7 @@
       },
       {
         "id": "dessert",
-        "hidden": true,
+        "hidden": false,
         "nameFA": "دسر و کیک",
         "nameEN": "Dessert & Cake",
         "icon": "/img/dessert.svg",
@@ -860,16 +860,26 @@
             "id": "new-item-1771236228740",
             "nameFA": "سن سباستین",
             "nameEN": "Sansebastian",
-            "img": "/img/icon-menu.svg",
+            "img": "/img/item_1786475134776.webp",
             "price1": "267 T",
             "price2": "",
             "description": "",
-            "hidden": "true"
+            "hidden": "false"
           },
           {
             "id": "new-item-1771236266482",
             "nameFA": "اسنیکرز",
             "nameEN": "Snickers",
+            "img": "/img/icon-menu.svg",
+            "price1": "287 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1771236386540",
+            "nameFA": "بروانی ",
+            "nameEN": "Brownie",
             "img": "/img/icon-menu.svg",
             "price1": "257 T",
             "price2": "",
@@ -877,14 +887,54 @@
             "hidden": "true"
           },
           {
-            "id": "new-item-1771236386540",
-            "nameFA": "شو کیک",
-            "nameEN": "Show cakes ",
+            "id": "new-item-1786475289336",
+            "nameFA": "بلوندی موز",
+            "nameEN": "Benana blondy",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "257 T",
             "price2": "",
             "description": "",
-            "hidden": "true"
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786475316354",
+            "nameFA": "تیرامیسو",
+            "nameEN": "Tiramisu ",
+            "img": "/img/icon-menu.svg",
+            "price1": "257 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786475397873",
+            "nameFA": "دبل چاکلت",
+            "nameEN": "Double chocolate ",
+            "img": "/img/icon-menu.svg",
+            "price1": "237 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786475447897",
+            "nameFA": "چیز دُبی",
+            "nameEN": "Dubai chees",
+            "img": "/img/icon-menu.svg",
+            "price1": "278 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786475557311",
+            "nameFA": "چیز پسته",
+            "nameEN": "Pistachio chees",
+            "img": "/img/icon-menu.svg",
+            "price1": "287 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
           }
         ]
       },
@@ -955,5 +1005,5 @@
       }
     ]
   },
-  "sha": "c46e5d627b5b46af4c11a67b7c6de3c24b5306e4"
+  "sha": "8a62bc3cd71f6f44f49286f79275a133648e3aa4"
 }
