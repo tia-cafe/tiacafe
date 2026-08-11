@@ -334,7 +334,7 @@
           {
             "id": "item-1781005221366",
             "nameFA": "فراپه ماچا کارامل",
-            "nameEN": "Macha caramel",
+            "nameEN": " Macha caramel frappe",
             "img": "/img/icon-menu.svg",
             "price1": "317 T",
             "price2": "",
@@ -344,7 +344,7 @@
           {
             "id": "item-1781005300741",
             "nameFA": "فراپه ماچا کوکونات",
-            "nameEN": "Macha coco",
+            "nameEN": "Macha coco frappe",
             "img": "/img/icon-menu.svg",
             "price1": "317 T",
             "price2": "",
@@ -362,24 +362,14 @@
             "hidden": "false"
           },
           {
-            "id": "item-1783601205786",
-            "nameFA": "شوکوبری ",
-            "nameEN": "Chocoberry",
+            "id": "new-item-1786476081701",
+            "nameFA": "فراپه تارو ",
+            "nameEN": "Frappe taro",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "",
             "price2": "",
-            "description": "توت فرنگی تازه، سس شکلات.",
+            "description": "",
             "hidden": "false"
-          },
-          {
-            "id": "item-1783601282296",
-            "nameFA": "شوکو منگوبری",
-            "nameEN": "Choco mangoberry",
-            "img": "/img/icon-menu.svg",
-            "price1": "308T",
-            "price2": "",
-            "description": "توت فرنگی تازه، انبه تازه، سس شکلات",
-            "hidden": "true"
           }
         ]
       },
@@ -1036,5 +1026,5 @@
       }
     ]
   },
-  "sha": "3599ddf346c5280281faf56dd117e14de9d89f6a"
+  "sha": "f18b94568f85815b687215162727f264d9ed0e47"
 }
