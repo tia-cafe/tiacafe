@@ -737,6 +737,26 @@
             "price2": "",
             "description": "سیروپ توت‌فرنگی، هایمیکس، لیمو، سیروپ لیموناد، سودا، یخ",
             "hidden": "false"
+          },
+          {
+            "id": "new-item-1786476242792",
+            "nameFA": "سانی پاپ",
+            "nameEN": "Suny pop",
+            "img": "/img/icon-menu.svg",
+            "price1": "316 T",
+            "price2": "",
+            "description": "سیروپ پشن‌فروت، سیروپ گوآوا، لیموترش تازه….",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786476343435",
+            "nameFA": "ا‌وشن پاپ",
+            "nameEN": "Oashen pop",
+            "img": "/img/icon-menu.svg",
+            "price1": "316 T",
+            "price2": "",
+            "description": "سیروپ کاراسئو، سیروپ پشن فروت، آب آناناس…",
+            "hidden": "false"
           }
         ]
       },
@@ -1026,5 +1046,5 @@
       }
     ]
   },
-  "sha": "2162cf06e20031ec8bf92bfddd4d62f8015c9a1c"
+  "sha": "50987df8ee0907add572612ab6a4497fe9772fe6"
 }
