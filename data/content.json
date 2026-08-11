@@ -997,13 +997,44 @@
       },
       {
         "id": "sandwich",
-        "hidden": true,
+        "hidden": false,
         "nameFA": "ساندویچ",
         "nameEN": "sandwich",
         "icon": "/img/sandwich.svg",
-        "items": []
+        "items": [
+          {
+            "id": "new-item-1786475886705",
+            "nameFA": "تُست چیکن آلفردو",
+            "nameEN": "Chicken alfredo toast",
+            "img": "/img/icon-menu.svg",
+            "price1": "367 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786475933697",
+            "nameFA": "تُست کوبایی",
+            "nameEN": "Coban toast",
+            "img": "/img/icon-menu.svg",
+            "price1": "337 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786475988252",
+            "nameFA": "چاپا سزار",
+            "nameEN": "Chapa caesar",
+            "img": "/img/icon-menu.svg",
+            "price1": "657 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          }
+        ]
       }
     ]
   },
-  "sha": "650ea31170530272b04cec2e954b46b44d21b1cb"
+  "sha": "2524dfa9e9edbf12940a7b4b19d5710c2ba0f39a"
 }
