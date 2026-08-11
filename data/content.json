@@ -884,7 +884,7 @@
             "price1": "257 T",
             "price2": "",
             "description": "",
-            "hidden": "true"
+            "hidden": "false"
           },
           {
             "id": "new-item-1786475289336",
@@ -1005,5 +1005,5 @@
       }
     ]
   },
-  "sha": "8a62bc3cd71f6f44f49286f79275a133648e3aa4"
+  "sha": "650ea31170530272b04cec2e954b46b44d21b1cb"
 }
