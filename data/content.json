@@ -157,7 +157,7 @@
             "nameFA": "کمکس",
             "nameEN": "Chemex",
             "img": "/img/icon-menu.svg",
-            "price1": "257 T",
+            "price1": "287 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -167,7 +167,7 @@
             "nameFA": "وی۶۰",
             "nameEN": "V60",
             "img": "/img/icon-menu.svg",
-            "price1": "257 T",
+            "price1": "287 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -177,7 +177,17 @@
             "nameFA": "فیلتر کافی",
             "nameEN": "Brew machin",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "257 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786783019296",
+            "nameFA": "آیس وی۶۰",
+            "nameEN": "Ice v60",
+            "img": "/img/icon-menu.svg",
+            "price1": "297 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1046,5 +1056,5 @@
       }
     ]
   },
-  "sha": "7439412677e037e0bf166d773a2792006bd87c66"
+  "sha": "45c63f4ee2e7250a41b3ebe503904f80e1dd6b75"
 }
