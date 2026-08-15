@@ -1004,6 +1004,16 @@
             "price2": "",
             "description": "۲عدد تخم مرغ، قارچ، پیازچه، ادویه تی‌آ، دیپ پیازچه، لیمو، ریحون",
             "hidden": "false"
+          },
+          {
+            "id": "new-item-1786783075301",
+            "nameFA": "تست نوتلا موز",
+            "nameEN": "",
+            "img": "/img/icon-menu.svg",
+            "price1": "237 T",
+            "price2": "",
+            "description": "کرم نوتلا، موز حلقه شده، تُست",
+            "hidden": "false"
           }
         ]
       },
@@ -1056,5 +1066,5 @@
       }
     ]
   },
-  "sha": "45c63f4ee2e7250a41b3ebe503904f80e1dd6b75"
+  "sha": "e61cc658f610b640eb9b795dd3be2b48984383d7"
 }
