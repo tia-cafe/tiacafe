@@ -376,9 +376,19 @@
             "nameFA": "فراپه تارو ",
             "nameEN": "Frappe taro",
             "img": "/img/icon-menu.svg",
-            "price1": "",
+            "price1": "317 T",
             "price2": "",
-            "description": "",
+            "description": "شیر، فلاور پودر تارو، بستنی، یخ",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1786979065332",
+            "nameFA": "آیس آفولته",
+            "nameEN": "Ice affolatte",
+            "img": "/img/icon-menu.svg",
+            "price1": "319 T",
+            "price2": "",
+            "description": "اسپرسو،شیر،۲ اسکپ بستنی وانیل",
             "hidden": "false"
           }
         ]
@@ -1066,5 +1076,5 @@
       }
     ]
   },
-  "sha": "5d097f37ea2f49c6cf4d465213af561ec23ae311"
+  "sha": "dd6427310236021beecc182ee88bd8ed674686ab"
 }
