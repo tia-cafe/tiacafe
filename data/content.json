@@ -643,7 +643,7 @@
             "nameFA": "موهیتو",
             "nameEN": "Mojito",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "297 T",
             "price2": "",
             "description": "لیمو، نعنا، سیروپ موهیتو ، سودا",
             "hidden": "false"
@@ -653,7 +653,7 @@
             "nameFA": "بلو موهیتو",
             "nameEN": "Blue Mojito",
             "img": "/img/icon-menu.svg",
-            "price1": "299 T",
+            "price1": "317 T",
             "price2": "",
             "description": "لیمو، نعنا، بلوکاراسئو، سیروپ موهیتو، سودا",
             "hidden": "false"
@@ -663,7 +663,7 @@
             "nameFA": "لیموناد",
             "nameEN": "Lemonade",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "287 T",
             "price2": "",
             "description": "لیمو تازه، سیروپ لیمو، سودا ",
             "hidden": "false"
@@ -673,7 +673,7 @@
             "nameFA": "رِد موهیتو",
             "nameEN": "Red mojito",
             "img": "/img/icon-menu.svg",
-            "price1": "299",
+            "price1": "317 T",
             "price2": "",
             "description": "لیمو‌، نعنا، توت فرنگی، موهیتو، سودا…",
             "hidden": "false"
@@ -683,7 +683,7 @@
             "nameFA": "اسموتی میوه‌های قرمز",
             "nameEN": "Red Berry Smoothie",
             "img": "/img/icon-menu.svg",
-            "price1": "299 T",
+            "price1": "317 T",
             "price2": "",
             "description": "شاهتوت، البالو، آب البالو…",
             "hidden": "false"
@@ -693,7 +693,7 @@
             "nameFA": "اسموتی ترش",
             "nameEN": "Sour Smoothie",
             "img": "/img/icon-menu.svg",
-            "price1": "299 T",
+            "price1": "317 T",
             "price2": "",
             "description": "لواشک، سیروپ تمبر هندی، آب البالو…",
             "hidden": "false"
@@ -703,29 +703,9 @@
             "nameFA": "پرتقال لایچی",
             "nameEN": "Orange Lychee",
             "img": "/img/icon-menu.svg",
-            "price1": "299",
+            "price1": "317 T",
             "price2": "",
             "description": "سیروپ تمبر هندی، هایمیکس لایچی، آب پرتغال …",
-            "hidden": "false"
-          },
-          {
-            "id": "item-1778627481842",
-            "nameFA": "اسموتی هندوانه",
-            "nameEN": "Watermelon ",
-            "img": "/img/icon-menu.svg",
-            "price1": "197 T",
-            "price2": "",
-            "description": "",
-            "hidden": "false"
-          },
-          {
-            "id": "item-1778875106207",
-            "nameFA": "استراملون",
-            "nameEN": "Strawmelon",
-            "img": "/img/icon-menu.svg",
-            "price1": "287 T",
-            "price2": "",
-            "description": "هندوانه، توت‌فرنگی‌، سیروپ توت‌ فرنگی…",
             "hidden": "false"
           },
           {
@@ -733,7 +713,7 @@
             "nameFA": "پینک پانچ",
             "nameEN": "Pink punch",
             "img": "/img/icon-menu.svg",
-            "price1": "299 T",
+            "price1": "327 T",
             "price2": "",
             "description": "موز، شاهتوت، آب انبه…",
             "hidden": "false"
@@ -743,7 +723,7 @@
             "nameFA": "کارسولیمون",
             "nameEN": "Cursolimon",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "297 T",
             "price2": "",
             "description": "بلو‌ کاراسائو، لیمو تازه، سودا، یخ…",
             "hidden": "false"
@@ -753,7 +733,7 @@
             "nameFA": "رزبری ",
             "nameEN": "Raspberry",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "297 T",
             "price2": "",
             "description": "سیروپ رزبری، لیمو تازه، نعنا، یخ…",
             "hidden": "false"
@@ -763,7 +743,7 @@
             "nameFA": "پینک لیموناد",
             "nameEN": "Pink lemonade",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "307 T",
             "price2": "",
             "description": "سیروپ توت‌فرنگی، هایمیکس، لیمو، سیروپ لیموناد، سودا، یخ",
             "hidden": "false"
@@ -773,7 +753,7 @@
             "nameFA": "سانی پاپ",
             "nameEN": "Suny pop",
             "img": "/img/icon-menu.svg",
-            "price1": "316 T",
+            "price1": "317 T",
             "price2": "",
             "description": "سیروپ پشن‌فروت، سیروپ گوآوا، لیموترش تازه….",
             "hidden": "false"
@@ -783,9 +763,19 @@
             "nameFA": "ا‌وشن پاپ",
             "nameEN": "Oashen pop",
             "img": "/img/icon-menu.svg",
-            "price1": "316 T",
+            "price1": "317 T",
             "price2": "",
             "description": "سیروپ کاراسئو، سیروپ پشن فروت، آب آناناس…",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1787389881972",
+            "nameFA": "پینوکولادا",
+            "nameEN": "Pinocolada",
+            "img": "/img/icon-menu.svg",
+            "price1": "317 T",
+            "price2": "",
+            "description": "سیروپ نارگیل، پشن‌فروت، لیمو‌تازه،آب آناناس، سودا",
             "hidden": "false"
           }
         ]
@@ -1086,5 +1076,5 @@
       }
     ]
   },
-  "sha": "af3b896906788d83e462957ad48b70448a124257"
+  "sha": "d88dfc6b3a35412b1fdb1cb3493cb4e4d1a6111c"
 }
