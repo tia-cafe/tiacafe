@@ -415,9 +415,9 @@
             "nameFA": "چای سیاه",
             "nameEN": "Black Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "109 T",
+            "price1": "119 T",
             "price2": "",
-            "description": "چای دمی ایرانی، نبات، قند",
+            "description": "چای دمی ایرانی، نبات، قند, کوکی",
             "hidden": "false"
           },
           {
@@ -425,9 +425,9 @@
             "nameFA": "چای تی آ",
             "nameEN": "Tia tea",
             "img": "/img/icon-menu.svg",
-            "price1": "207 T",
+            "price1": "217 T",
             "price2": "",
-            "description": "چای سیاه دمی، گل‌ محمدی، دارچین، به لیمو، نبات‌، زعفران",
+            "description": "چای سیاه دمی، گل‌ محمدی، دارچین، به لیمو، نبات‌، زعفران، کوکی",
             "hidden": "false"
           },
           {
@@ -435,7 +435,7 @@
             "nameFA": "چای سبز",
             "nameEN": "Green Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "163 T",
+            "price1": "173 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -445,7 +445,7 @@
             "nameFA": "چای میوه‌ای",
             "nameEN": "Fruit Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "227 T",
+            "price1": "237 T",
             "price2": "",
             "description": "توت فرنگی، سیب، عناب…",
             "hidden": "false"
@@ -455,7 +455,7 @@
             "nameFA": "دمنوش ریلکس",
             "nameEN": "Relaxing Herbal Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "207 T",
+            "price1": "217 T",
             "price2": "",
             "description": "گل‌ گاو زبان، چای ترش، سنبل، به لیمو",
             "hidden": "false"
@@ -465,7 +465,7 @@
             "nameFA": "دمنوش سرماخوردگی",
             "nameEN": "Cold Relief Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "207 T",
+            "price1": "217 T",
             "price2": "",
             "description": "زنجبیل، چای کوهی، آویشن",
             "hidden": "false"
@@ -475,7 +475,7 @@
             "nameFA": "چای زعفران ",
             "nameEN": "Saffron tea",
             "img": "/img/icon-menu.svg",
-            "price1": "184 T",
+            "price1": "194 T",
             "price2": "",
             "description": "چای سیاه دمی، پودر زعفران اعلاء (پک)، نبات، قند",
             "hidden": "false"
@@ -485,7 +485,7 @@
             "nameFA": "چای ماچا",
             "nameEN": "Macha tea",
             "img": "/img/icon-menu.svg",
-            "price1": "267 T",
+            "price1": "277 T",
             "price2": "",
             "description": "چای دمی ماچا",
             "hidden": "false"
@@ -1086,5 +1086,5 @@
       }
     ]
   },
-  "sha": "a04f02faa83e1b5780d92cd8f1acce8b1f663108"
+  "sha": "af3b896906788d83e462957ad48b70448a124257"
 }
