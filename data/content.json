@@ -145,8 +145,18 @@
           },
           {
             "id": "new-item-1787388924593",
-            "nameFA": "لاته اسپرولینا",
+            "nameFA": "اسپرولینا لاته",
             "nameEN": "Esperolina latte",
+            "img": "/img/icon-menu.svg",
+            "price1": "297 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1787388974385",
+            "nameFA": "تارو لاته ",
+            "nameEN": "Taro latte",
             "img": "/img/icon-menu.svg",
             "price1": "297 T",
             "price2": "",
@@ -1086,5 +1096,5 @@
       }
     ]
   },
-  "sha": "016878ab4754b81143360c571b290a60b0d8da5c"
+  "sha": "e0d8c4d50875899af11255fd23fcfc4f67d2dbaa"
 }
