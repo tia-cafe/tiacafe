@@ -18,7 +18,7 @@
             "nameFA": "اسپرسو ",
             "nameEN": "Espresso",
             "img": "/img/icon-menu.svg",
-            "price1": "179 T",
+            "price1": "197 T",
             "price2": "",
             "description": "۴۰ گرم عصاره قهوه ۷۰/۳۰ عربیکا",
             "hidden": "false"
@@ -28,7 +28,7 @@
             "nameFA": "آمریکانو",
             "nameEN": "Americano",
             "img": "/img/icon-menu.svg",
-            "price1": "189 T",
+            "price1": "207 T",
             "price2": "",
             "description": "اسپرسو، آبجوش",
             "hidden": "false"
@@ -38,7 +38,7 @@
             "nameFA": "لاته",
             "nameEN": "Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "257 T",
+            "price1": "267 T",
             "price2": "",
             "description": "اسپرسو، شیر",
             "hidden": "false"
@@ -48,7 +48,7 @@
             "nameFA": "کاپوچینو",
             "nameEN": "Cappuccino",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "247 T",
             "price2": "",
             "description": "اسپرسو، شیر",
             "hidden": "false"
@@ -58,7 +58,7 @@
             "nameFA": "کارامل ماکیاتو",
             "nameEN": "Caramel Macchiato",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "287 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ کارامل",
             "hidden": "false"
@@ -68,7 +68,7 @@
             "nameFA": "موکا",
             "nameEN": "Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T ",
+            "price1": "287 T ",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات",
             "hidden": "false"
@@ -78,7 +78,7 @@
             "nameFA": "موکا نارگیل",
             "nameEN": "Coconut Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "297 T",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات، سیروپ نارگیل",
             "hidden": "false"
@@ -88,7 +88,7 @@
             "nameFA": "اسپنیش لاته",
             "nameEN": "Spanish Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T ",
+            "price1": "287 T ",
             "price2": "",
             "description": "اسپرسو، شیر، شیرعسلی",
             "hidden": "false"
@@ -98,7 +98,7 @@
             "nameFA": "ایریش کافی",
             "nameEN": "Irish Coffee",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "287 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ ایریش",
             "hidden": "false"
@@ -108,7 +108,7 @@
             "nameFA": "لاته نوتلا",
             "nameEN": "Nutella latte",
             "img": "/img/icon-menu.svg",
-            "price1": "293 T",
+            "price1": "303 T",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات، کرم نوتلا",
             "hidden": "false"
@@ -118,7 +118,7 @@
             "nameFA": "کورتادو",
             "nameEN": "Kortado",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "247 T",
             "price2": "",
             "description": "اسپرسو، شیر",
             "hidden": "false"
@@ -128,7 +128,7 @@
             "nameFA": "لاته دارچین",
             "nameEN": "",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "287 T",
             "price2": "",
             "description": "اسپرسو، شیر، پودر دارچین",
             "hidden": "false"
@@ -138,9 +138,19 @@
             "nameFA": "لاته عسل دارچین",
             "nameEN": "New Item",
             "img": "/img/icon-menu.svg",
-            "price1": "287",
+            "price1": "297 T",
             "price2": "",
             "description": "اسپرسو، شیر، پودر دارچین، عسل",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1787388924593",
+            "nameFA": "لاته اسپرولینا",
+            "nameEN": "Esperolina latte",
+            "img": "/img/icon-menu.svg",
+            "price1": "297 T",
+            "price2": "",
+            "description": "",
             "hidden": "false"
           }
         ]
@@ -1076,5 +1086,5 @@
       }
     ]
   },
-  "sha": "6c2ba5a6b62dad9c4c4f53ccd3956800960f561b"
+  "sha": "016878ab4754b81143360c571b290a60b0d8da5c"
 }
