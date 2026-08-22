@@ -965,6 +965,36 @@
             "price2": "",
             "description": "",
             "hidden": "false"
+          },
+          {
+            "id": "new-item-1787390147475",
+            "nameFA": "جار‌کیک شکلاتی",
+            "nameEN": "New Item",
+            "img": "/img/icon-menu.svg",
+            "price1": "267 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1787390176797",
+            "nameFA": "براونی باکس ۲ نفره",
+            "nameEN": "New Item",
+            "img": "/img/icon-menu.svg",
+            "price1": "367 T",
+            "price2": "",
+            "description": "با سُس شکلات",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1787390243654",
+            "nameFA": "براونی کلاود",
+            "nameEN": "Brwonie cloud",
+            "img": "/img/icon-menu.svg",
+            "price1": "387 T",
+            "price2": "",
+            "description": "دسر نرم، لطیف با براونی و بستنی وانیل و کاکائو",
+            "hidden": "false"
           }
         ]
       },
@@ -1076,5 +1106,5 @@
       }
     ]
   },
-  "sha": "0380d91acc7d3530023727b1eb7c3521fec56ffa"
+  "sha": "db5c52bf2f10eb0257e97d29aca1d57bc5cdda28"
 }
