@@ -1087,7 +1087,7 @@
             "nameFA": "تُست کوبایی",
             "nameEN": "Coban toast",
             "img": "/img/icon-menu.svg",
-            "price1": "337 T",
+            "price1": "367 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1106,5 +1106,5 @@
       }
     ]
   },
-  "sha": "db5c52bf2f10eb0257e97d29aca1d57bc5cdda28"
+  "sha": "59b1cb6591988e41a414ce04f30bd9f7cdfd8929"
 }
