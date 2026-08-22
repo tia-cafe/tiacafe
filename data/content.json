@@ -197,7 +197,7 @@
             "nameFA": "فیلتر کافی",
             "nameEN": "Brew machin",
             "img": "/img/icon-menu.svg",
-            "price1": "257 T",
+            "price1": "259 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1096,5 +1096,5 @@
       }
     ]
   },
-  "sha": "e0d8c4d50875899af11255fd23fcfc4f67d2dbaa"
+  "sha": "14c7515c9a99ec81f128650547677276262c51e7"
 }
