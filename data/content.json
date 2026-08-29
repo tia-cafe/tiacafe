@@ -1079,7 +1079,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "367 T",
             "price2": "",
-            "description": "",
+            "description": "نان تُست، مرغ مرینت شده، سس آفردو،",
             "hidden": "false"
           },
           {
@@ -1089,7 +1089,7 @@
             "img": "/img/icon-menu.svg",
             "price1": "367 T",
             "price2": "",
-            "description": "",
+            "description": "نان تُست، پنیر گودا، مرغ مرینت شده، نعنا، پنیر سفید.",
             "hidden": "false"
           },
           {
@@ -1099,12 +1099,32 @@
             "img": "/img/icon-menu.svg",
             "price1": "657 T",
             "price2": "",
-            "description": "",
+            "description": "نان چاپاتا، مرغ مرینت شده، کاهو، سس سزار، گوجه، زیتون، پنیر پارمسان.",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1788026589031",
+            "nameFA": "فوکاچیا چیکن پستو",
+            "nameEN": "Focaccia chicken pesto ",
+            "img": "/img/icon-menu.svg",
+            "price1": "667 T",
+            "price2": "",
+            "description": "نان فوکاچیا، مرغ مرینت شده، سس پستو، پنیر موزارلا، گوجه خشک مرینت شده، کاهو فرانسوی.",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1788026738683",
+            "nameFA": "فوکاچیا رست بیف",
+            "nameEN": "Focaccia rostbif",
+            "img": "/img/icon-menu.svg",
+            "price1": "767 T",
+            "price2": "",
+            "description": "نان فوکاچیا، گوشت رست‌بیف، پیاز کاراملی، پنیر گودا، گوجه خشک مرینت شده، کاهو فرانسوی.",
             "hidden": "false"
           }
         ]
       }
     ]
   },
-  "sha": "59b1cb6591988e41a414ce04f30bd9f7cdfd8929"
+  "sha": "25a4b62ef50c9d784f2bc5b65581ef53a210717d"
 }
