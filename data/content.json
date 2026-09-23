@@ -891,7 +891,7 @@
             "nameFA": "سن سباستین",
             "nameEN": "Sansebastian",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "297 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -901,7 +901,7 @@
             "nameFA": "اسنیکرز",
             "nameEN": "Snickers",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "297 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -911,7 +911,7 @@
             "nameFA": "بروانی ",
             "nameEN": "Brownie",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "287 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -921,7 +921,7 @@
             "nameFA": "بلوندی موز",
             "nameEN": "Benana blondy",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "297 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -931,7 +931,7 @@
             "nameFA": "تیرامیسو",
             "nameEN": "Tiramisu ",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "297 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -941,7 +941,7 @@
             "nameFA": "دبل چاکلت",
             "nameEN": "Double chocolate ",
             "img": "/img/icon-menu.svg",
-            "price1": "257 T",
+            "price1": "267 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -951,7 +951,7 @@
             "nameFA": "چیز دُبی",
             "nameEN": "Dubai chees",
             "img": "/img/icon-menu.svg",
-            "price1": "278 T",
+            "price1": "288 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -971,7 +971,7 @@
             "nameFA": "براونی باکس ۲ نفره",
             "nameEN": "New Item",
             "img": "/img/icon-menu.svg",
-            "price1": "367 T",
+            "price1": "377 T",
             "price2": "",
             "description": "با سُس شکلات",
             "hidden": "false"
@@ -981,7 +981,7 @@
             "nameFA": "براونی کلاود",
             "nameEN": "Brwonie cloud",
             "img": "/img/icon-menu.svg",
-            "price1": "387 T",
+            "price1": "397 T",
             "price2": "",
             "description": "دسر نرم، لطیف با براونی و بستنی وانیل و کاکائو",
             "hidden": "false"
@@ -991,7 +991,27 @@
             "nameFA": "چیز تیرامیسو",
             "nameEN": "Tiramisu cheese ",
             "img": "/img/icon-menu.svg",
-            "price1": "378 T",
+            "price1": "388 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1790177453333",
+            "nameFA": "اکلر پسته",
+            "nameEN": "Eclair pistachio",
+            "img": "/img/icon-menu.svg",
+            "price1": "277 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1790177530871",
+            "nameFA": "اکلر فندوق کارامل",
+            "nameEN": "Caramel Eclair",
+            "img": "/img/icon-menu.svg",
+            "price1": "277 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1126,5 +1146,5 @@
       }
     ]
   },
-  "sha": "811bafd077595ef4629d1ba3d6da43bbc202cdb4"
+  "sha": "526c769daab6570c656dc05a5758c64a132d09e9"
 }
