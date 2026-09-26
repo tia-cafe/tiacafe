@@ -211,6 +211,16 @@
             "price2": "",
             "description": "",
             "hidden": "false"
+          },
+          {
+            "id": "new-item-1790382611859",
+            "nameFA": "کلد برو",
+            "nameEN": "Coold brow",
+            "img": "/img/icon-menu.svg",
+            "price1": "267 T",
+            "price2": "",
+            "description": "قهوه سرد دم",
+            "hidden": "false"
           }
         ]
       },
@@ -1146,5 +1156,5 @@
       }
     ]
   },
-  "sha": "acd2cf2a3e43363e0a68ef3792c11c374ff38c39"
+  "sha": "4b3d0c129e2abd98115af67bf33721218eea7ae9"
 }
