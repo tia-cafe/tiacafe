@@ -18,7 +18,7 @@
             "nameFA": "اسپرسو ",
             "nameEN": "Espresso",
             "img": "/img/icon-menu.svg",
-            "price1": "197 T",
+            "price1": "217 T",
             "price2": "",
             "description": "۴۰ گرم عصاره قهوه ۷۰/۳۰ عربیکا",
             "hidden": "false"
@@ -28,7 +28,7 @@
             "nameFA": "آمریکانو",
             "nameEN": "Americano",
             "img": "/img/icon-menu.svg",
-            "price1": "207 T",
+            "price1": "227T",
             "price2": "",
             "description": "اسپرسو، آبجوش",
             "hidden": "false"
@@ -38,7 +38,7 @@
             "nameFA": "لاته",
             "nameEN": "Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "267 T",
+            "price1": "317 T",
             "price2": "",
             "description": "اسپرسو، شیر",
             "hidden": "false"
@@ -48,7 +48,7 @@
             "nameFA": "کاپوچینو",
             "nameEN": "Cappuccino",
             "img": "/img/icon-menu.svg",
-            "price1": "247 T",
+            "price1": "297 T",
             "price2": "",
             "description": "اسپرسو، شیر",
             "hidden": "false"
@@ -68,7 +68,7 @@
             "nameFA": "موکا",
             "nameEN": "Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T ",
+            "price1": "347 T ",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات",
             "hidden": "false"
@@ -78,7 +78,7 @@
             "nameFA": "موکا نارگیل",
             "nameEN": "Coconut Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "357 T",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات، سیروپ نارگیل",
             "hidden": "false"
@@ -88,7 +88,7 @@
             "nameFA": "اسپنیش لاته",
             "nameEN": "Spanish Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T ",
+            "price1": "357 T ",
             "price2": "",
             "description": "اسپرسو، شیر، شیرعسلی",
             "hidden": "false"
@@ -98,7 +98,7 @@
             "nameFA": "ایریش کافی",
             "nameEN": "Irish Coffee",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "347 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ ایریش",
             "hidden": "false"
@@ -108,7 +108,7 @@
             "nameFA": "لاته نوتلا",
             "nameEN": "Nutella latte",
             "img": "/img/icon-menu.svg",
-            "price1": "303 T",
+            "price1": "367 T",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات، کرم نوتلا",
             "hidden": "false"
@@ -118,7 +118,7 @@
             "nameFA": "کورتادو",
             "nameEN": "Kortado",
             "img": "/img/icon-menu.svg",
-            "price1": "247 T",
+            "price1": "287 T",
             "price2": "",
             "description": "اسپرسو، شیر",
             "hidden": "false"
@@ -128,7 +128,7 @@
             "nameFA": "لاته دارچین",
             "nameEN": "",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "347 T",
             "price2": "",
             "description": "اسپرسو، شیر، پودر دارچین",
             "hidden": "false"
@@ -138,7 +138,7 @@
             "nameFA": "لاته عسل دارچین",
             "nameEN": "New Item",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "357 T",
             "price2": "",
             "description": "اسپرسو، شیر، پودر دارچین، عسل",
             "hidden": "false"
@@ -148,7 +148,7 @@
             "nameFA": "اسپرولینا لاته",
             "nameEN": "Esperolina latte",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "357 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -158,7 +158,7 @@
             "nameFA": "تارو لاته ",
             "nameEN": "Taro latte",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "357 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1156,5 +1156,5 @@
       }
     ]
   },
-  "sha": "5dd357d576becd3c755b85c896b6846f83c95038"
+  "sha": "1dd85849853e448053516f8b67d390ac0dc657e1"
 }
