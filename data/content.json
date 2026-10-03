@@ -177,7 +177,7 @@
             "nameFA": "کمکس",
             "nameEN": "Chemex",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "367 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -187,7 +187,7 @@
             "nameFA": "وی۶۰",
             "nameEN": "V60",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "367 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -197,7 +197,7 @@
             "nameFA": "فیلتر کافی",
             "nameEN": "Brew machin",
             "img": "/img/icon-menu.svg",
-            "price1": "259 T",
+            "price1": "317 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -207,7 +207,7 @@
             "nameFA": "آیس وی۶۰",
             "nameEN": "Ice v60",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "377 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -217,7 +217,7 @@
             "nameFA": "کلد برو",
             "nameEN": "Coold brow",
             "img": "/img/icon-menu.svg",
-            "price1": "267 T",
+            "price1": "297 T",
             "price2": "",
             "description": "قهوه سرد دم",
             "hidden": "false"
@@ -1156,5 +1156,5 @@
       }
     ]
   },
-  "sha": "1dd85849853e448053516f8b67d390ac0dc657e1"
+  "sha": "3316cef7cc1549eeffd1f72732f6feb3ac052596"
 }
