@@ -58,7 +58,7 @@
             "nameFA": "کارامل ماکیاتو",
             "nameEN": "Caramel Macchiato",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "347 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ کارامل",
             "hidden": "false"
@@ -425,7 +425,7 @@
             "nameFA": "چای سیاه",
             "nameEN": "Black Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "119 T",
+            "price1": "127 T",
             "price2": "",
             "description": "چای دمی ایرانی، نبات، قند, کوکی",
             "hidden": "false"
@@ -475,7 +475,7 @@
             "nameFA": "دمنوش سرماخوردگی",
             "nameEN": "Cold Relief Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "267 T",
             "price2": "",
             "description": "زنجبیل، چای کوهی، آویشن",
             "hidden": "false"
@@ -564,7 +564,7 @@
             "nameFA": "ماسالا",
             "nameEN": "Masala Chai",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "277 T",
             "price2": "",
             "description": "پودر چای ماسالا، شیر داغ",
             "hidden": "false"
@@ -1156,5 +1156,5 @@
       }
     ]
   },
-  "sha": "4b3d0c129e2abd98115af67bf33721218eea7ae9"
+  "sha": "c568c1c01eb36931dbe4a528bb3442aa21637628"
 }
