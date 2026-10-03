@@ -514,7 +514,7 @@
             "nameFA": "هات چاکلت",
             "nameEN": "Hot Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "249 T",
+            "price1": "287 T",
             "price2": "",
             "description": "شکلات غلیظ شده با شیر و خامه",
             "hidden": "false"
@@ -524,7 +524,7 @@
             "nameFA": "وایت چاکلت",
             "nameEN": "White Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "247 T",
+            "price1": "287 T",
             "price2": "",
             "description": "شکلات سفید غلیظ شده با شیر",
             "hidden": "false"
@@ -534,7 +534,7 @@
             "nameFA": "پینک چاکلت",
             "nameEN": "Pink Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "247 T ",
+            "price1": "287 T ",
             "price2": "",
             "description": "شکلات صورتی غلیظ شده با شیر",
             "hidden": "false"
@@ -544,7 +544,7 @@
             "nameFA": "بلو چاکلت",
             "nameEN": "Blue Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "247 T",
+            "price1": "287 T",
             "price2": "",
             "description": "شکلات آبی غلیظ شده با شیر",
             "hidden": "false"
@@ -554,7 +554,7 @@
             "nameFA": "ماچا لاته",
             "nameEN": "Matcha Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "267 T",
+            "price1": "357 T",
             "price2": "",
             "description": "ماچا، شیر داغ \nتاپینگ: سیروپ دلخواه",
             "hidden": "false"
@@ -574,17 +574,17 @@
             "nameFA": "چای کرک",
             "nameEN": "Karak Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "277 T",
             "price2": "",
             "description": "پودر چای کرک ، شیر داغ",
             "hidden": "false"
           },
           {
             "id": "hot-biscuit",
-            "nameFA": "هات بیسکویت",
-            "nameEN": "Hot Biscuit",
+            "nameFA": "هات لوتوس",
+            "nameEN": "Hot lotus ",
             "img": "/img/icon-menu.svg",
-            "price1": "307 T",
+            "price1": "337 T",
             "price2": "",
             "description": "کرم بیسکوئیت لوتوس، شیر داغ",
             "hidden": "false"
@@ -594,7 +594,7 @@
             "nameFA": "هات پسته",
             "nameEN": "Hot Pistachio",
             "img": "/img/icon-menu.svg",
-            "price1": "307 T",
+            "price1": "337 T",
             "price2": "",
             "description": "کرم پسته، پودر پسته، شیر داغ ",
             "hidden": "false"
@@ -604,7 +604,7 @@
             "nameFA": "هات چاکلت فندوقی",
             "nameEN": "Hot chokolate hazelnut",
             "img": "/img/icon-menu.svg",
-            "price1": "289 T",
+            "price1": "327 T",
             "price2": "",
             "description": "شکلات غلیظ شده با شیر، سیروپ فندوق",
             "hidden": "false"
@@ -614,7 +614,7 @@
             "nameFA": "شیر عسلی",
             "nameEN": "Honey milk",
             "img": "/img/icon-menu.svg",
-            "price1": "197 T",
+            "price1": "247 T",
             "price2": "",
             "description": "شیر داغ، شیر عسلی، عسل",
             "hidden": "false"
@@ -624,7 +624,7 @@
             "nameFA": "لاته اسپرولینا",
             "nameEN": "Latte esperolina",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "357 T",
             "price2": "",
             "description": "اسپرولینا، شیر",
             "hidden": "false"
@@ -1156,5 +1156,5 @@
       }
     ]
   },
-  "sha": "8b692f345c77955c60449d8688650bf8c9976c93"
+  "sha": "06ff96574fa1e0a285b1f3e57e1664396c9cac0b"
 }
