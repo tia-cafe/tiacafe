@@ -236,7 +236,7 @@
             "nameFA": "آیس آمریکانو",
             "nameEN": "Iced Americano",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "227 T",
             "price2": "",
             "description": "اسپرسو، آب و یخ",
             "hidden": "false"
@@ -246,7 +246,7 @@
             "nameFA": "آیس لاته",
             "nameEN": "Iced Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T ",
+            "price1": "327 T ",
             "price2": "",
             "description": "اسپرسو، شیر، یخ",
             "hidden": "false"
@@ -256,7 +256,7 @@
             "nameFA": "آیس موکا",
             "nameEN": "Iced Mocha",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "357 T",
             "price2": "",
             "description": "اسپرسو، شیر، سس شکلات، یخ",
             "hidden": "false"
@@ -266,7 +266,7 @@
             "nameFA": "آیس کارامل",
             "nameEN": "Iced Caramel ",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "357 T",
             "price2": "",
             "description": "اسپرسو، شیر، سیروپ کارامل، یخ",
             "hidden": "false"
@@ -276,7 +276,7 @@
             "nameFA": "آفوگاتو",
             "nameEN": "Affogato",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "327 T",
             "price2": "",
             "description": "بستنی وانیل، اسپرسو",
             "hidden": "false"
@@ -286,7 +286,7 @@
             "nameFA": "ماچا لاته",
             "nameEN": "Iced Matcha Latte",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "367 T",
             "price2": "",
             "description": "شیر، ماچا، یخ",
             "hidden": "false"
@@ -296,7 +296,7 @@
             "nameFA": "اسپرولینا",
             "nameEN": "Ice esperolina",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T ",
+            "price1": "367 T ",
             "price2": "",
             "description": "شیر، اسپرولینا، یخ",
             "hidden": "false"
@@ -306,7 +306,7 @@
             "nameFA": "تونیک اسپرسو",
             "nameEN": " esperso tonic",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "327 T",
             "price2": "",
             "description": "اسپرسو، سودا ، لیمو، یخ",
             "hidden": "false"
@@ -316,7 +316,7 @@
             "nameFA": "آیس چاکلت ",
             "nameEN": " Ice chocolate ",
             "img": "/img/icon-menu.svg",
-            "price1": "279 T",
+            "price1": "297 T",
             "price2": "",
             "description": "شکلات غلیظ شده با شیر و یخ",
             "hidden": "false"
@@ -326,7 +326,7 @@
             "nameFA": "آفوچاکلت",
             "nameEN": "Affo,chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "327 T",
             "price2": "",
             "description": "بستنی شکلاتی، اسپرسو",
             "hidden": "false"
@@ -336,7 +336,7 @@
             "nameFA": "استرابری موکا",
             "nameEN": "Mocha strawberry ",
             "img": "/img/icon-menu.svg",
-            "price1": "307 T",
+            "price1": "377 T",
             "price2": "",
             "description": "هایمیکس‌ توت فرنگی، شیر، شکلات غلیظ شده، اسپرسو، یخ",
             "hidden": "false"
@@ -346,7 +346,7 @@
             "nameFA": "مانگو لاته",
             "nameEN": "Latte mango",
             "img": "/img/icon-menu.svg",
-            "price1": "299 T",
+            "price1": "357 T",
             "price2": "",
             "description": "هایمیکس انبه، شیر ، اسپرسو، یخ",
             "hidden": "false"
@@ -356,7 +356,7 @@
             "nameFA": "استرابری لته",
             "nameEN": "Strawberry latte ",
             "img": "/img/icon-menu.svg",
-            "price1": "299 T",
+            "price1": "357 T",
             "price2": "",
             "description": "هایمیکس توت‌فرنگی، شیر، اسپرسو، یخ",
             "hidden": "false"
@@ -366,7 +366,7 @@
             "nameFA": "فراپه ماچا کارامل",
             "nameEN": " Macha caramel frappe",
             "img": "/img/icon-menu.svg",
-            "price1": "327 T",
+            "price1": "387 T",
             "price2": "",
             "description": "بستنی وانیل، ماچا دمی، شیر، کارامل، یخ…",
             "hidden": "false"
@@ -376,7 +376,7 @@
             "nameFA": "فراپه ماچا کوکونات",
             "nameEN": "Macha coco frappe",
             "img": "/img/icon-menu.svg",
-            "price1": "327 T",
+            "price1": "387 T",
             "price2": "",
             "description": "بستنی وانیل، ماچا دمی، شیر، نارگیل، یخ",
             "hidden": "false"
@@ -386,7 +386,7 @@
             "nameFA": "آیس تارو لاته",
             "nameEN": "Ice taro latte",
             "img": "/img/icon-menu.svg",
-            "price1": "T 297",
+            "price1": "T 367",
             "price2": "",
             "description": "شیر، فلاور پودر تارو، یخ",
             "hidden": "false"
@@ -396,7 +396,7 @@
             "nameFA": "فراپه تارو ",
             "nameEN": "Frappe taro",
             "img": "/img/icon-menu.svg",
-            "price1": "327 T",
+            "price1": "387 T",
             "price2": "",
             "description": "شیر، فلاور پودر تارو، بستنی، یخ",
             "hidden": "false"
@@ -406,7 +406,7 @@
             "nameFA": "آیس آفولته",
             "nameEN": "Ice affolatte",
             "img": "/img/icon-menu.svg",
-            "price1": "319 T",
+            "price1": "387 T",
             "price2": "",
             "description": "اسپرسو،شیر،۲ اسکپ بستنی وانیل",
             "hidden": "false"
@@ -1156,5 +1156,5 @@
       }
     ]
   },
-  "sha": "3316cef7cc1549eeffd1f72732f6feb3ac052596"
+  "sha": "05145989b4cb4872f3601f1a7bbce28da5a12bbd"
 }
