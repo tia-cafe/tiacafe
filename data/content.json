@@ -630,11 +630,11 @@
             "hidden": "false"
           },
           {
-            "id": "item-1778627046196",
-            "nameFA": "سیروپ",
-            "nameEN": "Syrop",
+            "id": "new-item-1791053165793",
+            "nameFA": "وایت پینات",
+            "nameEN": "Withe peanut ",
             "img": "/img/icon-menu.svg",
-            "price1": "40 T",
+            "price1": "337 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1156,5 +1156,5 @@
       }
     ]
   },
-  "sha": "06ff96574fa1e0a285b1f3e57e1664396c9cac0b"
+  "sha": "7f32cb020da3e813d9e638e60442fe7f4c3d5dd9"
 }
