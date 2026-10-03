@@ -435,7 +435,7 @@
             "nameFA": "چای تی آ",
             "nameEN": "Tia tea",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "227 T",
             "price2": "",
             "description": "چای سیاه دمی، گل‌ محمدی، دارچین، به لیمو، نبات‌، زعفران، کوکی",
             "hidden": "false"
@@ -445,7 +445,7 @@
             "nameFA": "چای سبز",
             "nameEN": "Green Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "173 T",
+            "price1": "217 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -455,7 +455,7 @@
             "nameFA": "چای میوه‌ای",
             "nameEN": "Fruit Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "277 T",
             "price2": "",
             "description": "توت فرنگی، سیب، عناب…",
             "hidden": "false"
@@ -465,7 +465,7 @@
             "nameFA": "دمنوش ریلکس",
             "nameEN": "Relaxing Herbal Tea",
             "img": "/img/icon-menu.svg",
-            "price1": "217 T",
+            "price1": "267 T",
             "price2": "",
             "description": "گل‌ گاو زبان، چای ترش، سنبل، به لیمو",
             "hidden": "false"
@@ -485,7 +485,7 @@
             "nameFA": "چای زعفران ",
             "nameEN": "Saffron tea",
             "img": "/img/icon-menu.svg",
-            "price1": "194 T",
+            "price1": "207 T",
             "price2": "",
             "description": "چای سیاه دمی، پودر زعفران اعلاء (پک)، نبات، قند",
             "hidden": "false"
@@ -495,7 +495,7 @@
             "nameFA": "چای ماچا",
             "nameEN": "Macha tea",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "307 T",
             "price2": "",
             "description": "چای دمی ماچا",
             "hidden": "false"
@@ -1156,5 +1156,5 @@
       }
     ]
   },
-  "sha": "05145989b4cb4872f3601f1a7bbce28da5a12bbd"
+  "sha": "8b692f345c77955c60449d8688650bf8c9976c93"
 }
