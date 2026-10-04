@@ -802,7 +802,7 @@
             "nameFA": "وانیل",
             "nameEN": "Vanilla",
             "img": "/img/icon-menu.svg",
-            "price1": "377 T",
+            "price1": "357 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -812,7 +812,7 @@
             "nameFA": "قهوه",
             "nameEN": "Coffee",
             "img": "/img/icon-menu.svg",
-            "price1": "427 T",
+            "price1": "387 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -822,7 +822,7 @@
             "nameFA": "شکلات",
             "nameEN": "Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "377 T",
+            "price1": "357 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -832,7 +832,7 @@
             "nameFA": "بادام زمینی",
             "nameEN": "Peanut Butter",
             "img": "/img/icon-menu.svg",
-            "price1": "427 T",
+            "price1": "397 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -842,7 +842,7 @@
             "nameFA": "موز شکلات",
             "nameEN": "Banana Chocolate",
             "img": "/img/icon-menu.svg",
-            "price1": "417 T",
+            "price1": "387 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -852,7 +852,7 @@
             "nameFA": "ماما شیک",
             "nameEN": "Mama Shake",
             "img": "/img/icon-menu.svg",
-            "price1": "417 T",
+            "price1": "387 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -862,7 +862,7 @@
             "nameFA": "شیک نوتلا",
             "nameEN": "nutella shake",
             "img": "/img/icon-menu.svg",
-            "price1": "447 T",
+            "price1": "397 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -872,7 +872,7 @@
             "nameFA": "لوتوس ",
             "nameEN": "Letus",
             "img": "/img/icon-menu.svg",
-            "price1": "427 T",
+            "price1": "397 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -882,7 +882,7 @@
             "nameFA": "شیک توت‌ فرنگی",
             "nameEN": "Strawberry",
             "img": "/img/icon-menu.svg",
-            "price1": "427 T",
+            "price1": "397 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1156,5 +1156,5 @@
       }
     ]
   },
-  "sha": "a6f68003caeb84213271bf249c254e5652e4d7ad"
+  "sha": "a2afac7cbaacce3d5ee83a93fc36fa78f6c790c5"
 }
