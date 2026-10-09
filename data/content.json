@@ -1007,21 +1007,31 @@
             "hidden": "false"
           },
           {
-            "id": "new-item-1790177453333",
-            "nameFA": "اکلر پسته",
-            "nameEN": "Eclair pistachio",
+            "id": "new-item-1791554637450",
+            "nameFA": "کروسان پسته ",
+            "nameEN": "Pistachio croissant",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "257 T",
             "price2": "",
             "description": "",
             "hidden": "false"
           },
           {
-            "id": "new-item-1790177530871",
-            "nameFA": "اکلر فندوق کارامل",
-            "nameEN": "Caramel Eclair",
+            "id": "new-item-1791554973168",
+            "nameFA": "کروسان دبل چاکلت ",
+            "nameEN": "Duuble choco croissant",
             "img": "/img/icon-menu.svg",
-            "price1": "277 T",
+            "price1": "257 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1791555025678",
+            "nameFA": "کروسان شکلاتی ",
+            "nameEN": "Choco croissant",
+            "img": "/img/icon-menu.svg",
+            "price1": "217 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1156,5 +1166,5 @@
       }
     ]
   },
-  "sha": "a2afac7cbaacce3d5ee83a93fc36fa78f6c790c5"
+  "sha": "409310aa7623e010115c9540af0116e9ca60c111"
 }
