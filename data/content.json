@@ -1035,6 +1035,16 @@
             "price2": "",
             "description": "",
             "hidden": "false"
+          },
+          {
+            "id": "new-item-1791744201032",
+            "nameFA": "دریم چاکلت",
+            "nameEN": "Dream chocolate ",
+            "img": "/img/icon-menu.svg",
+            "price1": "477 T",
+            "price2": "",
+            "description": "با روکش شکلات تخت",
+            "hidden": "false"
           }
         ]
       },
@@ -1166,5 +1176,5 @@
       }
     ]
   },
-  "sha": "85d6e23fc3dc4d0fb8a5d9dc9db90763152959f6"
+  "sha": "44a01d2d37747473657dc6b56facb3d728cddd1a"
 }
