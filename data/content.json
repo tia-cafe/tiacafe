@@ -1173,16 +1173,6 @@
             "hidden": "false"
           },
           {
-            "id": "new-item-1786475988252",
-            "nameFA": "چاپا سزار",
-            "nameEN": "Chapa caesar",
-            "img": "/img/icon-menu.svg",
-            "price1": "657 T",
-            "price2": "",
-            "description": "نان چاپاتا، مرغ مرینت شده، کاهو، سس سزار، گوجه، زیتون، پنیر پارمسان.",
-            "hidden": "false"
-          },
-          {
             "id": "new-item-1788026589031",
             "nameFA": "فوکاچیا چیکن پستو",
             "nameEN": "Focaccia chicken pesto ",
@@ -1206,5 +1196,5 @@
       }
     ]
   },
-  "sha": "96000d960a4784afd779a54e3ee546253608a559"
+  "sha": "3d68c62ac6c02d149a0af99c74bd5fda4319ef96"
 }
