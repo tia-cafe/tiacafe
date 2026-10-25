@@ -1083,7 +1083,7 @@
             "price1": "307 T",
             "price2": "",
             "description": "۲عدد تخم مرغ، گوجه، رب، دیپ پیازچه، لیمو، ریحون",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "item-1778869739992",
@@ -1093,7 +1093,7 @@
             "price1": "373 T",
             "price2": "",
             "description": "۲عدد تخم مرغ، گوجه، رب، قارچ، پیازچه، ادویه تی‌آ، لیمو",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "item-1778869847213",
@@ -1103,7 +1103,7 @@
             "price1": "197 T",
             "price2": "",
             "description": "۲عدد تخم مرغ، ادویه تی‌آ",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "item-1778869989910",
@@ -1113,16 +1113,26 @@
             "price1": "257 T",
             "price2": "",
             "description": "۲عدد تخم مرغ، قارچ، پیازچه، ادویه تی‌آ، لیمو",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1786783075301",
             "nameFA": "تست نوتلا موز",
             "nameEN": "",
             "img": "/img/icon-menu.svg",
-            "price1": "237 T",
+            "price1": "267 T",
             "price2": "",
             "description": "کرم نوتلا، موز حلقه شده، تُست",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1792924159588",
+            "nameFA": "تست بادام زمینی موز",
+            "nameEN": "New Item",
+            "img": "/img/icon-menu.svg",
+            "price1": "267",
+            "price2": "",
+            "description": "کرم بادوم زمینی، موز اسلایسی، کنجد",
             "hidden": "false"
           }
         ]
@@ -1196,5 +1206,5 @@
       }
     ]
   },
-  "sha": "632023b2e955d46352bdea5298789d0acce5bb27"
+  "sha": "48bc0c90f11533746766a558b07a1534f4ad62b8"
 }
