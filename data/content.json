@@ -638,6 +638,26 @@
             "price2": "",
             "description": "",
             "hidden": "false"
+          },
+          {
+            "id": "new-item-1792923821962",
+            "nameFA": "هات اسنیکرز ",
+            "nameEN": "Hot snichers",
+            "img": "/img/icon-menu.svg",
+            "price1": "337 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1792923962727",
+            "nameFA": "کوکو چاکلت ",
+            "nameEN": "Coco chocolate ",
+            "img": "/img/icon-menu.svg",
+            "price1": "317 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
           }
         ]
       },
@@ -1176,5 +1196,5 @@
       }
     ]
   },
-  "sha": "5839cb2ea9eb7de04a0987724f1f110906777bf2"
+  "sha": "5323ac749678f155178fad91dc0d41051f294f6b"
 }
