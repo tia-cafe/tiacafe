@@ -977,16 +977,6 @@
             "hidden": "false"
           },
           {
-            "id": "new-item-1786475447897",
-            "nameFA": "چیز دُبی",
-            "nameEN": "Dubai chees",
-            "img": "/img/icon-menu.svg",
-            "price1": "288 T",
-            "price2": "",
-            "description": "",
-            "hidden": "false"
-          },
-          {
             "id": "new-item-1787390147475",
             "nameFA": "جار‌کیک شکلاتی",
             "nameEN": "New Item",
@@ -1014,17 +1004,7 @@
             "price1": "397 T",
             "price2": "",
             "description": "دسر نرم، لطیف با براونی و بستنی وانیل و کاکائو",
-            "hidden": "false"
-          },
-          {
-            "id": "new-item-1788613718378",
-            "nameFA": "چیز تیرامیسو",
-            "nameEN": "Tiramisu cheese ",
-            "img": "/img/icon-menu.svg",
-            "price1": "388 T",
-            "price2": "",
-            "description": "",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1791554637450",
@@ -1064,6 +1044,66 @@
             "price1": "477 T",
             "price2": "",
             "description": "با روکش شکلات تخت",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793013107185",
+            "nameFA": "دسر خرسی",
+            "nameEN": "Teddy dessert",
+            "img": "/img/icon-menu.svg",
+            "price1": "497 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793013249013",
+            "nameFA": "دسر قهوه ",
+            "nameEN": "Coffee dessert",
+            "img": "/img/icon-menu.svg",
+            "price1": "497 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793013284658",
+            "nameFA": "دسر بادام زمینی",
+            "nameEN": "Peanut dessert",
+            "img": "/img/icon-menu.svg",
+            "price1": "497 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793013339591",
+            "nameFA": "دسر انبه",
+            "nameEN": "Mango dessert",
+            "img": "/img/icon-menu.svg",
+            "price1": "497 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793013432588",
+            "nameFA": "چیز لوتوس ",
+            "nameEN": "Lotus ",
+            "img": "/img/icon-menu.svg",
+            "price1": "287 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793013644936",
+            "nameFA": "چیز نوتلا ",
+            "nameEN": "Nutella",
+            "img": "/img/icon-menu.svg",
+            "price1": "287 T",
+            "price2": "",
+            "description": "",
             "hidden": "false"
           }
         ]
@@ -1196,5 +1236,5 @@
       }
     ]
   },
-  "sha": "fd5f64f94b9859a5ff60f5b147269a8dd105da7a"
+  "sha": "efb90dacb6a6c234e215742ae3eea68cff49f9cf"
 }
