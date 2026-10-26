@@ -125,12 +125,12 @@
           },
           {
             "id": "item-1778625646001",
-            "nameFA": "لاته دارچین",
+            "nameFA": "سینامون لاته",
             "nameEN": "",
             "img": "/img/icon-menu.svg",
             "price1": "347 T",
             "price2": "",
-            "description": "اسپرسو، شیر، پودر دارچین",
+            "description": "اسپرسو، شیر، دارچین",
             "hidden": "false"
           },
           {
@@ -1236,5 +1236,5 @@
       }
     ]
   },
-  "sha": "aaa456d8df473d0d44193c979bdb6160fcb7c806"
+  "sha": "6a0902d743d46de0aba517b220cf746f3c4bd2c1"
 }
