@@ -37,7 +37,7 @@
             "id": "latte",
             "nameFA": "لاته",
             "nameEN": "Latte",
-            "img": "/img/icon-menu.svg",
+            "img": "/img/item_1793118926966.webp",
             "price1": "317 T",
             "price2": "",
             "description": "اسپرسو، شیر",
@@ -1236,5 +1236,5 @@
       }
     ]
   },
-  "sha": "c8855e9da958e013f04f2634649ff4392045913e"
+  "sha": "8693336aa1772f3bc20fb90ca54e81a6390365e8"
 }
