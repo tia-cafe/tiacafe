@@ -162,6 +162,16 @@
             "price2": "",
             "description": "",
             "hidden": "false"
+          },
+          {
+            "id": "new-item-1793289547966",
+            "nameFA": "اوبه لاته",
+            "nameEN": "Obe latte ",
+            "img": "/img/icon-menu.svg",
+            "price1": "357 T",
+            "price2": "",
+            "description": "پودر اوبه دم‌اوری شده، شیر گرم شده با فوم",
+            "hidden": "false"
           }
         ]
       },
@@ -409,6 +419,26 @@
             "price1": "387 T",
             "price2": "",
             "description": "اسپرسو،شیر،۲ اسکپ بستنی وانیل",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793288954751",
+            "nameFA": "اوبه گاتو",
+            "nameEN": "Obe gato",
+            "img": "/img/icon-menu.svg",
+            "price1": "337 T",
+            "price2": "",
+            "description": "پودر اوبه دم‌اوری شده، بستنی، جو پرک",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793289329532",
+            "nameFA": "ایس اوبه لاته",
+            "nameEN": "Ice obe latte ",
+            "img": "/img/icon-menu.svg",
+            "price1": "367 T",
+            "price2": "",
+            "description": "پودر اوبه دم اوری شده، شیر، یخ",
             "hidden": "false"
           }
         ]
@@ -1236,5 +1266,5 @@
       }
     ]
   },
-  "sha": "f5fde92f9196f7dbd5e00db06cfc68bc3aaf3e24"
+  "sha": "83855e28298eb1f9699ae8598a2494f6eafd0223"
 }
