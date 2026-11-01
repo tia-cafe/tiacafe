@@ -1094,27 +1094,7 @@
             "price1": "497 T",
             "price2": "",
             "description": "",
-            "hidden": "false"
-          },
-          {
-            "id": "new-item-1793013284658",
-            "nameFA": "دسر بادام زمینی",
-            "nameEN": "Peanut dessert",
-            "img": "/img/icon-menu.svg",
-            "price1": "497 T",
-            "price2": "",
-            "description": "",
-            "hidden": "false"
-          },
-          {
-            "id": "new-item-1793013339591",
-            "nameFA": "دسر انبه",
-            "nameEN": "Mango dessert",
-            "img": "/img/icon-menu.svg",
-            "price1": "497 T",
-            "price2": "",
-            "description": "",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1793013432588",
@@ -1127,11 +1107,21 @@
             "hidden": "false"
           },
           {
-            "id": "new-item-1793013644936",
-            "nameFA": "چیز نوتلا ",
-            "nameEN": "Nutella",
+            "id": "new-item-1793541264770",
+            "nameFA": "هویج گردو خامه",
+            "nameEN": "",
             "img": "/img/icon-menu.svg",
             "price1": "287 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793541306107",
+            "nameFA": "چیز باقلوا",
+            "nameEN": "New Item",
+            "img": "/img/icon-menu.svg",
+            "price1": "317 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1266,5 +1256,5 @@
       }
     ]
   },
-  "sha": "4660ee90afe32b11b34c33dc3c713dc70faa0c36"
+  "sha": "4e7301fc22cc6cdcf1c91d1c3357a3c63dd284e1"
 }
