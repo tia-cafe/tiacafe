@@ -1081,7 +1081,7 @@
             "nameFA": "دسر خرسی",
             "nameEN": "Teddy dessert",
             "img": "/img/icon-menu.svg",
-            "price1": "497 T",
+            "price1": "347 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1122,6 +1122,16 @@
             "nameEN": "New Item",
             "img": "/img/icon-menu.svg",
             "price1": "317 T",
+            "price2": "",
+            "description": "",
+            "hidden": "false"
+          },
+          {
+            "id": "new-item-1793541346431",
+            "nameFA": "تیرامیسو ماگ",
+            "nameEN": "New Item",
+            "img": "/img/icon-menu.svg",
+            "price1": "357 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1256,5 +1266,5 @@
       }
     ]
   },
-  "sha": "4e7301fc22cc6cdcf1c91d1c3357a3c63dd284e1"
+  "sha": "ba44ca76effe4aaf9c8a59e3e3d7da92e2bc0a18"
 }
