@@ -991,7 +991,7 @@
             "nameFA": "تیرامیسو",
             "nameEN": "Tiramisu ",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "317 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1266,5 +1266,5 @@
       }
     ]
   },
-  "sha": "6830af8706102989e1f72810f2d674d35e95dfc0"
+  "sha": "17e70211ffc88e6b616ac653c9ae33220cad0a62"
 }
