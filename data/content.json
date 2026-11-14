@@ -1044,7 +1044,7 @@
             "price1": "257 T",
             "price2": "",
             "description": "",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1791554973168",
@@ -1054,7 +1054,7 @@
             "price1": "257 T",
             "price2": "",
             "description": "",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1791555025678",
@@ -1064,11 +1064,11 @@
             "price1": "217 T",
             "price2": "",
             "description": "",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1791744201032",
-            "nameFA": "دریم چاکلت",
+            "nameFA": "دریم چاکلت ۲نفره",
             "nameEN": "Dream chocolate ",
             "img": "/img/icon-menu.svg",
             "price1": "477 T",
@@ -1104,7 +1104,7 @@
             "price1": "287 T",
             "price2": "",
             "description": "",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1793541264770",
@@ -1140,7 +1140,7 @@
       },
       {
         "id": "breakfast",
-        "hidden": false,
+        "hidden": true,
         "nameFA": "صبحانه",
         "nameEN": "Breakfast",
         "icon": "/img/breakfast.svg",
@@ -1230,7 +1230,7 @@
             "price1": "367 T",
             "price2": "",
             "description": "نان تُست، مرغ مرینت شده، سس آفردو،",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1786475933697",
@@ -1240,7 +1240,7 @@
             "price1": "367 T",
             "price2": "",
             "description": "نان تُست، پنیر گودا، مرغ مرینت شده، نعنا، پنیر سفید.",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1788026589031",
@@ -1266,5 +1266,5 @@
       }
     ]
   },
-  "sha": "18b7050acb210c69ca7f1764ec687b9d006f201b"
+  "sha": "f6ba18779e2929bceee169cf3f0781d24c41b000"
 }
