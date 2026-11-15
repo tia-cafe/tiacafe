@@ -1135,6 +1135,16 @@
             "price2": "",
             "description": "",
             "hidden": "false"
+          },
+          {
+            "id": "new-item-1794750554578",
+            "nameFA": "کیک رژیمی",
+            "nameEN": "New Item",
+            "img": "/img/icon-menu.svg",
+            "price1": "297 T",
+            "price2": "",
+            "description": "جو دوسر، گردو، شکلات تیکه ای تلخ، موز",
+            "hidden": "false"
           }
         ]
       },
@@ -1266,5 +1276,5 @@
       }
     ]
   },
-  "sha": "0ea400c313da0e763f28d9ccb0b0a59c2c1138a5"
+  "sha": "3061cbb0754d312f7f679ed844725636529fdd22"
 }
