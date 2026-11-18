@@ -681,12 +681,12 @@
           },
           {
             "id": "new-item-1792923962727",
-            "nameFA": "کوکو چاکلت ",
-            "nameEN": "Coco chocolate ",
+            "nameFA": "شوکو کرم‌پاف",
+            "nameEN": "Choco cream puff",
             "img": "/img/icon-menu.svg",
-            "price1": "317 T",
+            "price1": "357 T",
             "price2": "",
-            "description": "",
+            "description": "هات چاکلت + مینی نون‌ خامه ای",
             "hidden": "false"
           }
         ]
@@ -1276,5 +1276,5 @@
       }
     ]
   },
-  "sha": "06d242a34d9e0cfad02d8a40b43a22bcd4a22852"
+  "sha": "bb2927c995e6105dc87eed5453f7c43d45582be0"
 }
