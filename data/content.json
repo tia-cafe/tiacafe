@@ -951,7 +951,7 @@
             "nameFA": "سن سباستین",
             "nameEN": "Sansebastian",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "317 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -961,7 +961,7 @@
             "nameFA": "اسنیکرز",
             "nameEN": "Snickers",
             "img": "/img/icon-menu.svg",
-            "price1": "297 T",
+            "price1": "327 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -971,7 +971,7 @@
             "nameFA": "بروانی ",
             "nameEN": "Brownie",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "297 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1001,7 +1001,7 @@
             "nameFA": "دبل چاکلت",
             "nameEN": "Double chocolate ",
             "img": "/img/icon-menu.svg",
-            "price1": "267 T",
+            "price1": "287 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1014,14 +1014,14 @@
             "price1": "287 T",
             "price2": "",
             "description": "",
-            "hidden": "false"
+            "hidden": "true"
           },
           {
             "id": "new-item-1787390176797",
             "nameFA": "براونی باکس ۲ نفره",
             "nameEN": "New Item",
             "img": "/img/icon-menu.svg",
-            "price1": "377 T",
+            "price1": "397 T",
             "price2": "",
             "description": "با سُس شکلات",
             "hidden": "false"
@@ -1031,7 +1031,7 @@
             "nameFA": "براونی کلاود",
             "nameEN": "Brwonie cloud",
             "img": "/img/icon-menu.svg",
-            "price1": "397 T",
+            "price1": "437 T",
             "price2": "",
             "description": "دسر نرم، لطیف با براونی و بستنی وانیل و کاکائو",
             "hidden": "true"
@@ -1101,17 +1101,17 @@
             "nameFA": "چیز لوتوس ",
             "nameEN": "Lotus ",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "297 T",
             "price2": "",
             "description": "",
-            "hidden": "true"
+            "hidden": "false"
           },
           {
             "id": "new-item-1793541264770",
             "nameFA": "هویج گردو خامه",
             "nameEN": "",
             "img": "/img/icon-menu.svg",
-            "price1": "287 T",
+            "price1": "317 T",
             "price2": "",
             "description": "",
             "hidden": "false"
@@ -1276,5 +1276,5 @@
       }
     ]
   },
-  "sha": "6215a84bef472a643726e3071422b70204fafeea"
+  "sha": "de147fed3adda184e83512dec7fe5aac5f64f2eb"
 }
